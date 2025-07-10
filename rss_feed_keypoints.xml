@@ -1,0 +1,2042 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>APN Key Highlights Feed</title>
+    <link>https://github.com/Plottwistnow/News</link>
+    <description>Condensed weekly summary from APN's operational report.</description>
+    <item>
+      <title>Meeting Participants and Invitations</title>
+      <description><![CDATA[Participants: Mr. Rye, Mr. Archer (present in the call), Anthony (invited), Micah, Eric, Scott, Katrina, Noah, Paul, Sarah, Emily Cronin, Jessica, Anna, and Lance (all mentioned in the discussion).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting Participants and Invitations</title>
+      <description><![CDATA[Decision to invite Anthony to the call and include him in regular interactions, including a standing call, to align on cash projections and future business forecasting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting Participants and Invitations</title>
+      <description><![CDATA[Plan to schedule daily stand-up calls to ensure the team stays on the same page, receives necessary support, and identifies if anything is going off track.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow and Forecasting</title>
+      <description><![CDATA[Cash flow visibility: Daily updates showed an increase from $31K to $39K, which was not considered "very good"; a drop in collections was attributed to a holiday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow and Forecasting</title>
+      <description><![CDATA[Micah’s machine learning model predicts insurance cash flows for existing business with historical accuracy within 5% of actual collections. This model is granular, analyzing average DSO by payer and prefix.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow and Forecasting</title>
+      <description><![CDATA[The RefRec template is now being used 100% of the time in Sage, enabling more accurate RefRec forecasts instead of relying solely on rolling averages.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>P&amp;L and General Ledger (GL) Taxonomy</title>
+      <description><![CDATA[Noted confusion in the P&L due to summing many numbers and grouped GL buckets, requiring review.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>P&amp;L and General Ledger (GL) Taxonomy</title>
+      <description><![CDATA[A taxonomy has been created to:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>P&amp;L and General Ledger (GL) Taxonomy</title>
+      <description><![CDATA[Classify client accounts by priority (e.g., client safety, regulatory) to guide payment prioritization.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Closing Deadlines and Payment Scheduling</title>
+      <description><![CDATA[Target dates for closing accounts: A business day deadline (around the 10th or 15th) was discussed, with final closure agreed upon with Eric by the 20th. The team is in a good position to beat the 20th.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Closing Deadlines and Payment Scheduling</title>
+      <description><![CDATA[Need for a method-based Accounts Payable (AP) process to prevent overpayment (e.g., avoiding a single $300K vendor payment). The goal is to establish a governing document for AP by the next quarter.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Closing Deadlines and Payment Scheduling</title>
+      <description><![CDATA[Emphasis on rapid closure ("faster is better") to proactively address potential cash shortfalls.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>System Integrations and Data Management</title>
+      <description><![CDATA[NetSuite will serve as the source of truth for 2024 financial records, a time-intensive process estimated at four hours per site for December data alone (12 months x 9 locations).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>System Integrations and Data Management</title>
+      <description><![CDATA[Effort to transcribe recent messages and current discussions for record-keeping and future reference.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>System Integrations and Data Management</title>
+      <description><![CDATA[SAGE and LBMC discussed:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accruals, Revenue Recognition, and Forecast Adjustments</title>
+      <description><![CDATA[Noah prefers accrual based on average in-network rates, but this method has led to significant discrepancies (never within 30%) compared to actual cash collections, making board meetings feel like a "magic show."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accruals, Revenue Recognition, and Forecast Adjustments</title>
+      <description><![CDATA[Debate on using actual cash collections versus standard accruals:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accruals, Revenue Recognition, and Forecast Adjustments</title>
+      <description><![CDATA[The variety in insurance payments (e.g., United Healthcare) complicates accrual accuracy.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Staffing and Resource Allocation</title>
+      <description><![CDATA[Proposal to add two or three additional staff ("Scots" or similar) to support cash flow reconciliation and revenue tracking.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Staffing and Resource Allocation</title>
+      <description><![CDATA[Plan to leverage Scott’s expertise for cash reconciliation, then transition him to revenue and bad debt management.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Staffing and Resource Allocation</title>
+      <description><![CDATA[The finance function is under-resourced, likened to having "too many chiefs and not enough Indians."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Human Resources and Vendor/Employee Documentation</title>
+      <description><![CDATA[Tax documentation issues (W-9s and W-2s):]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Human Resources and Vendor/Employee Documentation</title>
+      <description><![CDATA[Several employees reported discrepancies, such as having the wrong W-2, only one W-2, or multiple W-2s (e.g., Katrina received two W-2s and a corrected W-2).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Human Resources and Vendor/Employee Documentation</title>
+      <description><![CDATA[Resolution: The issue stemmed from Lance's failure to close out the previous system before PayCore. PayCore issued W-2s for the first quarter, which were superseded by corrected W-2s, and to the company's knowledge, all employees should now have the correct forms.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Financial and Operational Considerations</title>
+      <description><![CDATA[Detailed review of revenue buckets: The four main buckets are private pay, insurance payments, paid to subscriber (PTS), and inside sales/extensions. Insurance and private pay are the largest.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Financial and Operational Considerations</title>
+      <description><![CDATA[Extensions and inside sales revenues are tracked using a client taxonomy: P1 (private pay, no discount), P2 (private pay, some discount), I-1 (good insurance rate/deductibles paid), I-2 (barely scraping by), and scholarship. This taxonomy will eventually help predict revenue based on census data, but it will take about six months to flesh out. PTS can be volatile.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Financial and Operational Considerations</title>
+      <description><![CDATA[Expense management: Accurate future expense projections are crucial for APN, which is currently distressed. The goal is to reduce recurring expenses to below $4 million (currently $4.2 million), acknowledging that expenses increase with growth.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Verify all employees have received the correct W-2s.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Revisit accrual revenue methodology and consider developing high/mid/low P&L scenarios, addressing concerns about investor transparency.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Schedule a follow-up call between Anthony and Eric to review year-to-date revenue performance and understand Eric's past methods.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Client Engagement &amp; Calculator</title>
+      <description><![CDATA[Nicole met with Jeremy yesterday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Client Engagement &amp; Calculator</title>
+      <description><![CDATA[Nicole secured the client "Superbar."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Client Engagement &amp; Calculator</title>
+      <description><![CDATA[Jeremy mentioned training on using a specific calculator.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>SharePoint Site &amp; Organizational Structure</title>
+      <description><![CDATA[Site names may need to align with the 68 simplified job titles.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>SharePoint Site &amp; Organizational Structure</title>
+      <description><![CDATA[There is an existing SharePoint site, and a SharePoint meeting is scheduled for noon.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>SharePoint Site &amp; Organizational Structure</title>
+      <description><![CDATA[The discussion focused on establishing the minimum required number of SharePoint sites to ensure comprehensive coverage.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Resource Allocation &amp; Task Prioritization</title>
+      <description><![CDATA[Concerns were raised about managing time and resource allocation, particularly balancing revenue-generating tasks with organizing the SharePoint site.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Resource Allocation &amp; Task Prioritization</title>
+      <description><![CDATA[Final thoughts on prioritization underscore the urgent need to set clear priorities and receive direction on which tasks have higher immediate value. The speaker plans to use the next 10 minutes to clarify their own plan and priorities before the meeting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Resource Allocation &amp; Task Prioritization</title>
+      <description><![CDATA[The speaker noted that both tasks cannot be completed simultaneously, emphasizing that this is impossible given their work style.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Clarify priorities between revenue-generating activities and SharePoint site restructuring.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Determine if a contractor is needed for SharePoint restructuring and initiate the hiring process if necessary.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Build an organizational chart in SharePoint as requested by Marissa.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current State and Challenges</title>
+      <description><![CDATA[Issues include confusion over document locations, inconsistent communication, and increased risk exposure due to the difficulty in knowing where information and documents reside.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current State and Challenges</title>
+      <description><![CDATA[External sharing has grown exponentially since 2023; while some is justified, much poses significant HIPAA and security risks, requiring better control.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current State and Challenges</title>
+      <description><![CDATA[Example: A financial document was created outside its secure finance folder, leading to increased visibility and reduced security, highlighting the need for a more organized audit process.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Proposed Vision and Solutions</title>
+      <description><![CDATA[Limit external sharing to only those who require it (e.g., investor relations needing to communicate with 200 investors); restrict for clinical staff to comply with HIPAA, as their client-related sharing should occur via secure email or Kifu.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Proposed Vision and Solutions</title>
+      <description><![CDATA[Conduct regular audits and utilize reports to monitor site activity, data volume, and relevance, including utilization stats and last use dates to identify unused sites.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Proposed Vision and Solutions</title>
+      <description><![CDATA[**Structural Overhaul**]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Data, Facts, and Examples</title>
+      <description><![CDATA[**Audit and Inventory**]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Data, Facts, and Examples</title>
+      <description><![CDATA[The challenge of consolidating or migrating information from potentially 500 existing email groups/SharePoint sites.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Data, Facts, and Examples</title>
+      <description><![CDATA[Reference to a previous consulting engagement with Able Consulting in 2023 for SharePoint/intranet design, indicating prior exploration of solutions.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Conclusions</title>
+      <description><![CDATA[The current SharePoint environment is fragmented, insecure, difficult to navigate, and has grown "rogue" without sufficient control.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Conclusions</title>
+      <description><![CDATA[There is consensus on the need for a more structured, department-based and process-based site architecture anchored by a central home site (intranet).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Conclusions</title>
+      <description><![CDATA[Security, compliance (especially HIPAA), user adoption, and clear communication are primary concerns that must be addressed.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Distribute an Excel spreadsheet inventory of all current SharePoint sites, groups, and folders for review, shared on SharePoint and via APN email for collaboration.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Include utilization reports (activity, data volume, last access, member count) with the inventory spreadsheet to guide cleanup and prioritization.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Solicit feedback and contributions from team members on the inventory document to identify relevance and impact of existing sites.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Travel and Scheduling</title>
+      <description><![CDATA[A meeting is scheduled for the 24th of this month at the Lodge. Booking and organization for this meeting are currently underway, with the speaker planning to book it today and send out messages.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Travel and Scheduling</title>
+      <description><![CDATA[An upcoming trip to Florida with Lee is scheduled, departing early Thursday, with activities planned for both Thursday and Friday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Telehealth and Admissions Update</title>
+      <description><![CDATA[Telehealth activity is increasing, specifically with more TIOP (Telehealth Intensive Outpatient Program) cases coming in, indicating a positive trend.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Telehealth and Admissions Update</title>
+      <description><![CDATA[Robin successfully admitted a client with an eating disorder background, leveraging her expertise in that area, which signifies growth in this specific segment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Telehealth and Admissions Update</title>
+      <description><![CDATA[Vicki had a strong previous month and continues to perform well. Lee is also actively networking and generating referrals, with the expectation that her efforts will lead to more clients as people start talking.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Management and Winback Strategy</title>
+      <description><![CDATA[A new, organized Winback account list has been created, which is categorized by account name and owner within Salesforce. This list was recently organized to be more effective.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Management and Winback Strategy</title>
+      <description><![CDATA[The list tracks crucial metrics such as admits, opportunities, and the last referral dates for each account, allowing for efficient filtering by account owner, such as Desiree or Craig.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Management and Winback Strategy</title>
+      <description><![CDATA[It has been identified that some accounts, like Mountainside and Dylan, may be miscategorized and require verification and correction to ensure accurate assignments.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Discharge Process</title>
+      <description><![CDATA[Discharge paperwork should be sent to parents if they have complete medical oversight, particularly in cases like Bradley Benson where clients cannot manage their own records. The speaker is "90% sure" this is permissible.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Discharge Process</title>
+      <description><![CDATA[There is significant frustration with delays in communication, particularly when clients have signed releases. The expectation is for immediate communication once a release is signed, without further internal deliberation.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Discharge Process</title>
+      <description><![CDATA[Recent issues have arisen with Valiant requesting paperwork for referred clients, highlighting the critical need for discharge paperwork to always be available, especially for high-end or concierge clients.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Process Improvements and Tools</title>
+      <description><![CDATA[This process improvement is expected to launch within the next 30 days, aiming to streamline the entire process.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Process Improvements and Tools</title>
+      <description><![CDATA[An upcoming implementation involves a "quick card," also referred to as a "Jason card," within Teams. This tool will allow therapists to document specific recommendations (e.g., PHP IOP for a certain duration) for clients, streamlining communication with finance and other departments regarding collection.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recruiting and Staffing</title>
+      <description><![CDATA[There is a clear need for more representatives, specifically on Desiree's side of things and in Dallas.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recruiting and Staffing</title>
+      <description><![CDATA[Kyle has been identified as a strong candidate for a new rep role. He is described as a "worker" and "team player" with existing experience and valuable contacts in areas like Ventura (where he lives), Santa Barbara, San Francisco, and Colorado, including connections like Cheyenne from Vail Health.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recruiting and Staffing</title>
+      <description><![CDATA[A proposal suggests assigning Kyle to Northern California and VA accounts, potentially with the title "Director of Community Relations, California/VA" or "West" to encompass a larger area, including California VAs and Utah VAs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Ownership and Performance Tracking</title>
+      <description><![CDATA[The importance of tracking account assignments and performance over time was emphasized, using the ERC account as an example for reassignment and follow-up. A formula suggests accounts that can refer monthly should be touched at least once a month.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Ownership and Performance Tracking</title>
+      <description><![CDATA[A plan is in place to have Micah create a dashboard to monitor account touches and referral activity over the last three months. This tool will help identify underperforming accounts and optimize rep efforts by showing how many times an account has been touched and if it's time to move on.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Marketing and Conference Planning</title>
+      <description><![CDATA[The estimated budget for these marketing materials is close to $10,000. It is recommended to spread this cost over three months, allocating approximately $3,000 per month.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Marketing and Conference Planning</title>
+      <description><![CDATA[The plan is to prioritize purchases and sequence spending over the next 90 days based on immediate needs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Marketing and Conference Planning</title>
+      <description><![CDATA[For conference participation, a booth at a September event where Phillip and Amy are speaking costs $1,500. While sponsorship was considered, the preference is for a table-only presence, as conference sponsorships are often not memorable.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Team Management and Communication</title>
+      <description><![CDATA[The short-term admissions goal for the entire team (excluding Nicole) is 20 admits per month, an increase from the current 17.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Team Management and Communication</title>
+      <description><![CDATA[A plan is to schedule weekly 30-minute one-on-ones with all representatives, preferably back-to-back on Fridays, to streamline the process.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Team Management and Communication</title>
+      <description><![CDATA[During these one-on-ones, reps will receive the win-back list and review their weekly meetings and next steps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Miscellaneous</title>
+      <description><![CDATA[Lee and Robin are noted for being responsive and following directions well, which has contributed positively to telehealth admissions.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Miscellaneous</title>
+      <description><![CDATA[The speaker is actively managing ongoing marketing efforts and conference logistics until these processes are fully established within the role.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Miscellaneous</title>
+      <description><![CDATA[Coordination with Jess and other marketing contacts is ongoing to ensure that marketing materials are procured cost-effectively and are not overpriced.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements and Action Items</title>
+      <description><![CDATA[[ ] Book and organize the meeting at the Lodge for the 24th of the month.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements and Action Items</title>
+      <description><![CDATA[[ ] Implement the "quick card" (Jason card) process in Teams within the next 30 days.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements and Action Items</title>
+      <description><![CDATA[[ ] Schedule weekly 30-minute one-on-ones with all reps, preferably back-to-back on Fridays.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Scheduling and Meetings</title>
+      <description><![CDATA[Weekly touchpoints will begin on Friday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Scheduling and Meetings</title>
+      <description><![CDATA[Marissa has created a preliminary schedule.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Scheduling and Meetings</title>
+      <description><![CDATA[Meeting order is based on dependency mapping, ensuring each discussion builds on prior inputs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure and Staff Evaluations</title>
+      <description><![CDATA[Communication and leadership concerns:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure and Staff Evaluations</title>
+      <description><![CDATA[One team member struggles with orientation, teaching, and communication skills.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure and Staff Evaluations</title>
+      <description><![CDATA[Caleb displays unprofessional behavior, refusing to work with certain colleagues, particularly in Roger's absence regarding a re-admit case.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Clinical Processes and Data Analytics</title>
+      <description><![CDATA[Weighting/taxonomy system implementation:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Clinical Processes and Data Analytics</title>
+      <description><![CDATA[Proposal to assign weights to DSM diagnostic codes to assess patient acuity.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Clinical Processes and Data Analytics</title>
+      <description><![CDATA[Power BI would visualize case acuity, similar to nursing level assessments based on patient acuity.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational Meetings and Structure</title>
+      <description><![CDATA[Two-hour focused meetings by department:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational Meetings and Structure</title>
+      <description><![CDATA[Finance, operations, and clinical teams will review quarterly status, objectives, and assign responsibilities.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational Meetings and Structure</title>
+      <description><![CDATA[The goal is to clarify achievements, identify what to start/stop/do more of, and assign ownership.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Recruitment and Candidate Quality</title>
+      <description><![CDATA[Faraday submitted 195 resumes, resulting in only one interview:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Recruitment and Candidate Quality</title>
+      <description><![CDATA[This was a free trial service.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Recruitment and Candidate Quality</title>
+      <description><![CDATA[Candidate quality was poor.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>FSPHP Certification and Industry Differentiation</title>
+      <description><![CDATA[Estimated cost is $11,000–$14,000 for a three-year cycle.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>FSPHP Certification and Industry Differentiation</title>
+      <description><![CDATA[FSPHP certification discussion:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>FSPHP Certification and Industry Differentiation</title>
+      <description><![CDATA[Seen as a strategic differentiator, enhancing the organization’s standing with complementary groups (e.g., lawyer assistance programs, pharmacist networks) who often lack resources and look to FSPHP for direction.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Telehealth and Expanded Service Tracks</title>
+      <description><![CDATA[Considering combining tracks:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Telehealth and Expanded Service Tracks</title>
+      <description><![CDATA[Exploring merging athlete and professional treatment tracks.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Financial and Operational Updates</title>
+      <description><![CDATA[Census and revenue:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Financial and Operational Updates</title>
+      <description><![CDATA[Current census is low (about 48), but daily revenue remains strong due to high daily rates, making more money than at a higher census of 68.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Financial and Operational Updates</title>
+      <description><![CDATA[Despite lower census, financial performance is improving (e.g., highest monthly cash collection of $3.5 million, with expenses around $4 million, and labor costs significantly down).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Feedback on Personnel and Clinical Contributions</title>
+      <description><![CDATA[A Washington PHP doctor (Dr. Sack) praised the team’s competence and effectiveness, calling them the "absolute best" and "most talented team."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Feedback on Personnel and Clinical Contributions</title>
+      <description><![CDATA[Clinical staff, such as Dr. Sack, provide timely return-to-work evaluations, offer teaching, explain complex drug screen results, and understand the professional program's return-to-work protocols (e.g., half-time work, reassessment after eight weeks).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Feedback on Personnel and Clinical Contributions</title>
+      <description><![CDATA[Positive clinical feedback:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Psychedelic Treatments Initiative</title>
+      <description><![CDATA[Executive retreats with psychedelic treatments:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Psychedelic Treatments Initiative</title>
+      <description><![CDATA[Suggestion to develop guardrails and structured guidelines for psilocybin or similar treatments, aiming to avoid unfocused use.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Psychedelic Treatments Initiative</title>
+      <description><![CDATA[Proposed a two-week psychedelic retreat for executive-style people.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Observations on Meeting Effectiveness and Coaching</title>
+      <description><![CDATA[Coaching and mentoring:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Observations on Meeting Effectiveness and Coaching</title>
+      <description><![CDATA[One leader coaches less assertive managers (e.g., Sims) to balance therapeutic engagement with decisiveness, helping them manage emotions and maintain a positive outlook in crisis situations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Observations on Meeting Effectiveness and Coaching</title>
+      <description><![CDATA[Highlights differences between results-driven and relational management styles, emphasizing that staff are either "detractors or contributors."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Schedule the weekly touchpoint meeting for Friday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Send agenda and invitations for upcoming two-hour sessions by finance, operations, and clinical departments.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Review and finalize the dependency mapping for meeting order.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Call Context and Safety Notice</title>
+      <description><![CDATA[The call was initially forwarded to voicemail.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Call Context and Safety Notice</title>
+      <description><![CDATA[The call specifically concerns an Uber trip or order.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Call Context and Safety Notice</title>
+      <description><![CDATA[A clear reminder is given not to share any personal details.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Financial Management and Variance Collection</title>
+      <description><![CDATA[The primary focus is on actively collecting a variance to meet a targeted daily rate at any level of care.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Financial Management and Variance Collection</title>
+      <description><![CDATA[There is a strong emphasis on learning from past experiences, as the past has led to nothing but financial distress.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Financial Management and Variance Collection</title>
+      <description><![CDATA[A robust recommendation is made to question any preconceived beliefs or practices that were previously communicated, particularly concerning finances and the collection of less money. The speaker addresses "Desiree" directly in this context.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Support</title>
+      <description><![CDATA[Assurance is provided that the feedback is not intended to be critical or accusatory, with the speaker stating, "I am not being hard on anyone and I am not pointing the finger at anyone."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Support</title>
+      <description><![CDATA[Encouragement is given to reach out with any other questions or concerns.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Support</title>
+      <description><![CDATA[Openness to communication is strongly emphasized, with a clear reminder to never hesitate to reach out for clarification or support.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Closing Remarks</title>
+      <description><![CDATA[The recording features multiple expressions of gratitude and thanks, including "Thank you" and "Thanks for watching!".]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Closing Remarks</title>
+      <description><![CDATA[A friendly and supportive tone is maintained throughout the communication, concluding with a distinct "Mwah!" sound.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Critically review and question any preconceived beliefs or previous instructions, especially those related to financial practices and revenue collection, as encouraged by the speaker.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Actively collect variance to achieve the targeted daily rate across all levels of care.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Proactively reach out for clarification or with any questions regarding financial processes or other concerns, as advised.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Retreat Objectives</title>
+      <description><![CDATA[Host a leadership retreat for key leaders from all points north.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Retreat Objectives</title>
+      <description><![CDATA[Conduct a quarterly wrap-up based on concepts from the book *Scaling Up* and the "Quarterly Finish Line."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Retreat Objectives</title>
+      <description><![CDATA[Develop a retreat format that is meaningful and productive.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 1: Departmental Focus</title>
+      <description><![CDATA[Organize meetings around core elements:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 1: Departmental Focus</title>
+      <description><![CDATA[Finance]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 1: Departmental Focus</title>
+      <description><![CDATA[Operations]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 2: Process-Oriented Focus</title>
+      <description><![CDATA[Structure sessions around 12 key processes, including acquisition, client lifecycle management, and step downs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 2: Process-Oriented Focus</title>
+      <description><![CDATA[Reference: These 12 key processes are documented in existing files.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 2: Process-Oriented Focus</title>
+      <description><![CDATA[**Pros:** Fosters a greater understanding of what takes place in each process and how all team members contribute to it.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Additional Retreat Components</title>
+      <description><![CDATA[A social dinner is planned for Tuesday evening.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Additional Retreat Components</title>
+      <description><![CDATA[A "Finish Line" all-staff in-person meeting will conclude the retreat.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Additional Retreat Components</title>
+      <description><![CDATA[Arrival is planned for Monday at noon in Vail.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Key Data and Facts</title>
+      <description><![CDATA[Retreat dates: July 21–23.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Key Data and Facts</title>
+      <description><![CDATA[Reference materials: *Scaling Up* book, 12 key processes (on file).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Key Data and Facts</title>
+      <description><![CDATA[Location: Vail.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Arrangements</title>
+      <description><![CDATA[[ ] Reference and prepare materials on the 12 key processes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Arrangements</title>
+      <description><![CDATA[[ ] Decide on the retreat session structure: departmental vs. process-oriented.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Arrangements</title>
+      <description><![CDATA[[ ] Schedule and organize the social dinner for Tuesday evening.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Refine 13-week cash flow forecast within the next month.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] New hire to start by July 14, 2025, pending background check and TP tests.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Colleen Fitzsimmons' DocuSign process to be completed and injunctive motion filed within 48 hours (by July 11, 2025).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Blue Cross Blue Shield Lawsuit &amp; Data Analysis</title>
+      <description><![CDATA[**Technical Solution:** Seeking a developer (a former employee described as a brilliant guy who wrote his own cryptocurrency, never left the house, still lives with his mom, is about 30 years old, and is considered a 'secret weapon' for his ability to find anything on the internet) to write a script for every Blue Cross Blue Shield facility.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Blue Cross Blue Shield Lawsuit &amp; Data Analysis</title>
+      <description><![CDATA[**Objective:** Demonstrate Blue Cross Blue Shield’s lack of network adequacy, focusing on patients traveling out of state for treatment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Blue Cross Blue Shield Lawsuit &amp; Data Analysis</title>
+      <description><![CDATA[**Data Requirement:** Analyze facility coverage, especially in states with high claim volumes (e.g., Wyoming, Montana) to identify coverage gaps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Commercial Forecasting &amp; Reporting</title>
+      <description><![CDATA[**Progress:** Strong advancement on commercial forecasting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Commercial Forecasting &amp; Reporting</title>
+      <description><![CDATA[**Patient Pay Reporting:** Desiree is providing additional reporting on the patient pay side.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Commercial Forecasting &amp; Reporting</title>
+      <description><![CDATA[**Collaboration:** Ongoing collaboration with Rye on commercial forecasting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Gabrielle Contractual Issue</title>
+      <description><![CDATA[**Status:** No executed agreement exists with Gabrielle from either party.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Gabrielle Contractual Issue</title>
+      <description><![CDATA[**Sequence:** Gabrielle introduced the candidate and sent an agreement after the introduction, which was considered out of order and "shady," but it was never executed.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Gabrielle Contractual Issue</title>
+      <description><![CDATA[**Action:** No obligation to Gabrielle; consensus is not to pursue further unless she presses the issue, in which case the lack of a contract and "ridiculous contract rates" would be cited.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Plan &amp; Implementation Updates</title>
+      <description><![CDATA[**Project Plan:** Completed and ready for review within 1.5 hours; review scheduled for the afternoon.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Plan &amp; Implementation Updates</title>
+      <description><![CDATA[**Implementation:** Rye and Scott are progressing on workstreams, especially in Sage and Intacct systems. They have successfully tied out Malibu, 9X, Naples, and Boulder for 2025 within Sage and Intacct systems.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Plan &amp; Implementation Updates</title>
+      <description><![CDATA[**Weekly Updates:** A chart outlining progress will be updated weekly for ongoing visibility.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Brex Card Expense Management</title>
+      <description><![CDATA[**Expense Tracking:** Real-time (with ~2-hour delay) insight into spending by person, location, account, and vendor will be available next week.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Brex Card Expense Management</title>
+      <description><![CDATA[**Vision:** Identify recurring expenses per Brex cardholder and adjust card limits to recurring costs plus 10% during slow cash months to prevent overspending.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Brex Card Expense Management</title>
+      <description><![CDATA[**DPI for Rex:** Miko is developing a DPI for Rex, expected to be live by next Tuesday or Wednesday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure &amp; Roles</title>
+      <description><![CDATA[**Rye:** Focused on cash, revenue, contractuals, bad debt, and accounts payable, which are key areas for ensuring balance sheet comfort.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure &amp; Roles</title>
+      <description><![CDATA[**Retention:** Desire to retain Speaker 2 (the person Speaker 1 is talking to) in at least a fractional capacity.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure &amp; Roles</title>
+      <description><![CDATA[**Scott:** Positioned as a cost control lead, reporting to Rye; recognized for making tough decisions and supporting Sage training for accounting staff.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting &amp; Communication Logistics</title>
+      <description><![CDATA[**Project Management:** Emphasis on transparency and structured project management, aligning with Speaker 1's operational style.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting &amp; Communication Logistics</title>
+      <description><![CDATA[**Long-Term Planning:** Encouraged to consider long-term goals and roles.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting &amp; Communication Logistics</title>
+      <description><![CDATA[**Weekly Wrap-Up:** Need for a structured, one-hour weekly wrap-up meeting with key leaders, focusing on strengths, weaknesses, and threats.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Administrative Requests</title>
+      <description><![CDATA[**Email to Ethan:** Request for a concise email to Ethan, explaining the project scope and asking for a price estimate.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Administrative Requests</title>
+      <description><![CDATA[**Meeting Agenda:** Request for a one-hour agenda for the weekly wrap-up meeting, based on strengths, weaknesses, and threats.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Administrative Requests</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps &amp; Arrangements</title>
+      <description><![CDATA[[ ] Launch Miko’s DPI for Rex by next Tuesday or Wednesday.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps &amp; Arrangements</title>
+      <description><![CDATA[[ ] Finalize and send the project scope to the developer for Blue Cross Blue Shield facility analysis.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps &amp; Arrangements</title>
+      <description><![CDATA[[ ] Review and discuss the project plan this afternoon after receiving it.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Quarterly Meeting Structure and Purpose</title>
+      <description><![CDATA[The quarterly meeting plan is designed to review performance, compare quarterly results, and foster a culture of accountability and process improvement.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Quarterly Meeting Structure and Purpose</title>
+      <description><![CDATA[The agenda includes:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Quarterly Meeting Structure and Purpose</title>
+      <description><![CDATA[Morning arrivals and check-ins.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Attendees and Roles</title>
+      <description><![CDATA[In-Person Attendees: Speaker 2 (as needed), Craig, Kerry, Courtney, Jeremy, Dr. Hemphill, and potentially others pending confirmation (e.g., “he’ll be there”).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Attendees and Roles</title>
+      <description><![CDATA[Note: Dr. Rogers is on PTO during the meeting; further follow-up is needed for another attendee mentioned by Michael Sims.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Attendees and Roles</title>
+      <description><![CDATA[Virtual Attendees: Johnson, Jessica, and one additional person referenced by Michael Sims.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Agenda and Session Breakdown</title>
+      <description><![CDATA[1–5 p.m.: Results review focusing on performance, process comparisons, shared messaging, and collaborative strategy.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Agenda and Session Breakdown</title>
+      <description><![CDATA[6:30 p.m.: Potential dinner, with options for on-site or alternative venues.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Agenda and Session Breakdown</title>
+      <description><![CDATA[Session Timing:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Group Breakouts and Action Planning</title>
+      <description><![CDATA[Group Work Structure:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Group Breakouts and Action Planning</title>
+      <description><![CDATA[Divide into three or more process areas (e.g., acquisition, clinical, alumni relations) based on strategic topics.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Group Breakouts and Action Planning</title>
+      <description><![CDATA[Brainstorm all bottlenecks, then select the top three high-impact issues.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Leadership and Culture</title>
+      <description><![CDATA[Psychological Safety:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Leadership and Culture</title>
+      <description><![CDATA[Foster an environment for honest feedback without personal attacks.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Leadership and Culture</title>
+      <description><![CDATA[Set ground rules for open conversation and accountability for attendance.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Tools, Templates, and Organizational Resources</title>
+      <description><![CDATA[SharePoint Organizational Chart:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Tools, Templates, and Organizational Resources</title>
+      <description><![CDATA[Functional org chart tool to visualize reporting lines and accountabilities.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Tools, Templates, and Organizational Resources</title>
+      <description><![CDATA[Enhanced with personalized, engaging SharePoint homepages to promote use and ownership.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Travel and Logistics</title>
+      <description><![CDATA[Speaker 2’s travel details to be confirmed with HR booking support.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Travel and Logistics</title>
+      <description><![CDATA[Speaker 2 contacted Carrie and Hannah to schedule an exit meeting; follow-up needed as Hannah has not responded.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Travel and Logistics</title>
+      <description><![CDATA[Travel Coordination:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Future Meeting Breakouts and Follow-Up</title>
+      <description><![CDATA[Future Sessions:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Future Meeting Breakouts and Follow-Up</title>
+      <description><![CDATA[Consider small group breakouts led by different leaders (e.g., operations, clinical, finance).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Future Meeting Breakouts and Follow-Up</title>
+      <description><![CDATA[Plan a follow-up meeting (tentatively Friday) to refine breakout group plans and session tracks.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integration of Coaching and Team Building</title>
+      <description><![CDATA[Speaker 2 offers coaching sessions as part of team-building.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integration of Coaching and Team Building</title>
+      <description><![CDATA[Coaching:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integration of Coaching and Team Building</title>
+      <description><![CDATA[Team Building:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Follow up with Hannah regarding the exit meeting; send a 20-minute request for her time.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Share the Visio dependency map and organizational chart details with Speaker 2 and other team members.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Schedule a 15- to 30-minute follow-up meeting on Friday to refine breakout group structures and next steps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 1. Account Transition and Team Structure</title>
+      <description><![CDATA[Ryan (Speaker 1) is now the interim point of contact for MK Partners’ delivery team.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 1. Account Transition and Team Structure</title>
+      <description><![CDATA[A new consultant will start in about 1.5 weeks and will take over the account.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 1. Account Transition and Team Structure</title>
+      <description><![CDATA[Jake, the previous point of contact, has left due to burnout.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.1. Immediate Priorities</title>
+      <description><![CDATA[Integration could be into the lead object or the soon-to-be-launched CTM system (currently using Revenue.io, moving to CTM because Revenue.io doesn't work with their current account structure).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.1. Immediate Priorities</title>
+      <description><![CDATA[**API Version Updates and Audit:**]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.1. Immediate Priorities</title>
+      <description><![CDATA[Need to update Salesforce API to version 45 due to Salesforce changes (specifically affecting Visualforce and date/time fields, related to ICU date/time format changes).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.2. Secondary Priorities</title>
+      <description><![CDATA[Build 2-3 custom objects:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.2. Secondary Priorities</title>
+      <description><![CDATA[**Opportunity Task Cadence:**]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.2. Secondary Priorities</title>
+      <description><![CDATA[This involves leveraging native Salesforce features for guided selling, an algorithmic engagement strategy for leads or opportunities reaching a certain status.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 3. Project Management and Financial Considerations</title>
+      <description><![CDATA[Client requests work be broken into 3-4 phases to manage cash flow and avoid large, lump-sum invoices (e.g., a $90,000 bill).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 3. Project Management and Financial Considerations</title>
+      <description><![CDATA[Liquidity is not a major issue, as the company is a $4 million/month cash business, but fiduciary responsibility requires careful pacing.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 3. Project Management and Financial Considerations</title>
+      <description><![CDATA[Zillow integration: Estimated 40-50 hours (if straightforward).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 4. Technical and Operational Context</title>
+      <description><![CDATA[The company generates approximately 5,000 calls/month, primarily from pay-per-click ads, with a 40-50% call-to-lead conversion rate.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 4. Technical and Operational Context</title>
+      <description><![CDATA[Speaker 2 (Arthur) will review and phase out the project list with the contact center director and send feedback to Ryan.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 4. Technical and Operational Context</title>
+      <description><![CDATA[**Lead Generation and Qualification:**]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Ryan (Speaker 1) to send updated phased project scope and estimates to Speaker 2 (Arthur).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Speaker 2 (Arthur) to review and phase out the project list with the contact center director and send feedback to Ryan.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Ryan to audit and update Salesforce API versions and clean up unused integrations/packages.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Overview</title>
+      <description><![CDATA[Emphasis on leveraging publicly available data, specifically the national provider database, to support an $80 million lawsuit involving Blue Cross Blue Shield. This data is considered crucial for legal standing, as Blue Cross and similar companies are mandated by the Data Transparency Act to publish accurate information.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Overview</title>
+      <description><![CDATA[Identification of targeted provider registry data, including machine-readable files and provider details with MPI (National Provider Identifier) and taxonomy codes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Overview</title>
+      <description><![CDATA[Focus on precise provider mapping, filtering by specific taxonomy codes to isolate relevant facilities, primarily substance use disorder facilities.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data and Technical Requirements</title>
+      <description><![CDATA[A notable failed attempt involved using a Python script, generated by ChatGPT, to extract files from Alabama; this script ran for 90 minutes before ultimately failing due to memory constraints.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data and Technical Requirements</title>
+      <description><![CDATA[Extraction of provider registry data, confirmed to be a completely free dataset that covers the entire inspection of providers.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data and Technical Requirements</title>
+      <description><![CDATA[Data filtering based on client-supplied taxonomy codes is essential to narrow the list, specifically excluding multi-specialty clinics and focusing on two primary taxonomy codes, including one for substance use disorder facilities and another for primary mental health.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Work Process and Technical Approach</title>
+      <description><![CDATA[Proposal to utilize an existing Maptiv account for visualizing the provider registry data, leveraging its pre-built base map for efficiency and ease of use.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Work Process and Technical Approach</title>
+      <description><![CDATA[Integration of multiple data sources, including insights from a shared GitHub project for a provider database, although this specific project has limitations in mapping due to latitude and longitude restrictions.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Work Process and Technical Approach</title>
+      <description><![CDATA[A key plan is to create a heat map visualization, segmented into three distinct colors by taxonomy, to facilitate easier identification of in-network versus out-of-network providers and assess network adequacy.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Payment Structure and Agreement Details</title>
+      <description><![CDATA[The project is proposed to operate on an hourly basis, with an initial block cap set at 50 hours.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Payment Structure and Agreement Details</title>
+      <description><![CDATA[The estimated rate for this block is $3,000, with an understanding that flexibility will be applied if unforeseen technical limitations (such as bandwidth or processing constraints) arise, ensuring payment up to the hours logged if the project needs to stop.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Payment Structure and Agreement Details</title>
+      <description><![CDATA[Consideration will be given to drafting a formal statement of work or agreement to structure the project professionally, especially for potential future collaborations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Considerations</title>
+      <description><![CDATA[Discussion included the potential use of an API for Blue Cross Blue Shield data extraction if available, or otherwise relying on public provider registry data mandated by Data Transparency Acts.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Considerations</title>
+      <description><![CDATA[A significant concern regarding the MPPI dataset's legal validity was raised, as it primarily provides a list of providers but does not confirm whether they are actively offering services in-network, necessitating a second phase of scraping to validate service provision.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Considerations</title>
+      <description><![CDATA[The possibility to shift focus to alternative datasets, such as state licensure data, was discussed as a contingency if Blue Cross-related scraping becomes too complex or fails to yield accurate network adequacy data. For example, the lack of subacute mental health licenses in states like Texas could form a basis for a legal case, as patients may have no in-state options for certain types of care.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] The consultant will confirm acceptance of the 50-hour block assignment and the associated $3,000 rate for the project.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] The client will provide specific taxonomy codes for substance use disorder facilities and primary mental health, explicitly excluding multi-specialty clinics.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] The client will share Maptiv account login details for mapping and visualization purposes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Claims Analysis and Filing Strategy</title>
+      <description><![CDATA[Most claims are concentrated in Colorado, making it the primary focus for analysis and legal action.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Claims Analysis and Filing Strategy</title>
+      <description><![CDATA[Additional internal analysis will be conducted to confirm the extent and specifics of claims, especially in Colorado.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Claims Analysis and Filing Strategy</title>
+      <description><![CDATA[The timeline for processing Colorado claims will determine the overall opportunity size and subsequent steps for filing.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data Visualization Requirements</title>
+      <description><![CDATA[Visualizations (maps) are intended for a judge as part of an injunctive hearing, focusing on injunctive relief due to financial distress caused by non-payment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data Visualization Requirements</title>
+      <description><![CDATA[Visualizations should be professional and clear, suitable for a legal audience.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data Visualization Requirements</title>
+      <description><![CDATA[Standard heat maps or dot maps are acceptable; mimicking official forestry or state map styles is recommended for normalization to the judge.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deadlines and Deliverables</title>
+      <description><![CDATA[If the initial data is inadequate, further information may be required before proceeding, as insufficient data could lead to the case being dismissed by the judge, potentially risking an $80 million claim.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deadlines and Deliverables</title>
+      <description><![CDATA[The absolute deadline for deliverables is not fixed but should ideally be within the current week, though it depends on the completeness of the data.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deadlines and Deliverables</title>
+      <description><![CDATA[Deliverables include:]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Communication Preferences</title>
+      <description><![CDATA[Text messaging is preferred for urgent or important communications, as emails may be overlooked.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Communication Preferences</title>
+      <description><![CDATA[A statement of work and a quote will be provided as soon as possible.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Legal and Process Considerations</title>
+      <description><![CDATA[The case is being prepared for an injunctive hearing.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Legal and Process Considerations</title>
+      <description><![CDATA[The internal general attorney will make the final decision on filing based on the data presented.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Legal and Process Considerations</title>
+      <description><![CDATA[The process will proceed step by step, adapting as more information becomes available.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Complete further internal analysis on claims, focusing on Colorado.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Prepare and deliver professional visualizations (heat map/dot map) with source documentation.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Provide multiple visualization options for review.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Balance Sheet Reconciliation and System Integration</title>
+      <description><![CDATA[Scott is verifying subledgers, such as cash tied to bank accounts, and ensuring key accounts (revenues, AR reserves, AP) reconcile, impacting the P&L.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Balance Sheet Reconciliation and System Integration</title>
+      <description><![CDATA[SAGE and NetSuite balances must match, with the primary focus on finalizing the balance sheet as of May/June.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Balance Sheet Reconciliation and System Integration</title>
+      <description><![CDATA[Rye is ensuring SAGE balances align with NetSuite across multiple entities (e.g., Malibu, Naples, Boulder).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deferred Revenue and Allocation Process</title>
+      <description><![CDATA[Deferred revenue refers to cash received before it is earned (unearned revenue), distinct from accruals for earned revenue.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deferred Revenue and Allocation Process</title>
+      <description><![CDATA[NetSuite holds the deferred revenue figure, which must reconcile with Sage using a subledger or schedule to identify the source/customer.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deferred Revenue and Allocation Process</title>
+      <description><![CDATA[Allocation training is needed, as cash allocation is currently manual due to staff not knowing how to process this in Sage.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow Reporting and Forecasting</title>
+      <description><![CDATA[A weekly cash flow report will be generated using the RISE file as the source of truth, but improvements are needed in communication (assumptions, top spend details) and visual tools like a 13-week projection graph.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow Reporting and Forecasting</title>
+      <description><![CDATA[Forecasts are compared by reviewing forecasted versus actual collections (targeting 94–95% accuracy) and analyzing forecasted volumes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow Reporting and Forecasting</title>
+      <description><![CDATA[Call volume is the leading indicator, with plans to use six weeks of historical data (doubled for a 13-week forecast).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Month-End Close Process Improvements</title>
+      <description><![CDATA[Scott may shift from cash management to focus on SAGE implementation support and controlling tasks D1–D6.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Month-End Close Process Improvements</title>
+      <description><![CDATA[Historical month-end close challenges stemmed from the SAGE transition and prior checklist inefficiencies.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Month-End Close Process Improvements</title>
+      <description><![CDATA[A detailed checklist (used before SAGE reconciliation issues) outlines items to be completed by specific business days.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accounts Payable and Vendor Expense Controls</title>
+      <description><![CDATA[Discussion centered on disorganized expense tagging and allocation in the general ledger.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accounts Payable and Vendor Expense Controls</title>
+      <description><![CDATA[Power Query is used to categorize transactions by department, criticality, and necessity, ranking expenses (e.g., food cost per patient day, auto floor expenses) and flagging items for cancellation or review.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accounts Payable and Vendor Expense Controls</title>
+      <description><![CDATA[Tags must be aligned across systems (clinical, administrative, nursing costs) to ensure accurate departmental allocations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integrating Business Intelligence (BI) and Real-Time Reporting</title>
+      <description><![CDATA[Planned BI enhancements include granular reports by expense category (fixed, variable, semi-fixed) and tracking KPIs (e.g., per patient day revenue, food cost optimization) operationally.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integrating Business Intelligence (BI) and Real-Time Reporting</title>
+      <description><![CDATA[The goal is to integrate Sage with BI via API for near real-time financial data updates.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integrating Business Intelligence (BI) and Real-Time Reporting</title>
+      <description><![CDATA[A sample NetSuite integration (from an external analytics partner) demonstrated how data and GL classifications can be visualized in BI dashboards.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational and Staff Capacity Considerations</title>
+      <description><![CDATA[The long-term vision is to increase capacity by transitioning to a fractional CFO model with clearer reporting lines and board communication.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational and Staff Capacity Considerations</title>
+      <description><![CDATA[The team is operating near maximum capacity, limiting support for additional projects. Discussions are underway to leverage current staff and new hires (e.g., Plutus for AR) to reduce workload.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational and Staff Capacity Considerations</title>
+      <description><![CDATA[Contract documentation and general ledger reviews are centralized in shared folders for transparency and regular departmental review.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Automation and Future Reporting Enhancements</title>
+      <description><![CDATA[Ongoing improvement is expected through regular meetings with facility leads (weekly or bi-weekly) to monitor KPIs and enforce cost controls.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Automation and Future Reporting Enhancements</title>
+      <description><![CDATA[A demonstration showed how general ledger data is transformed via Power Query to produce categorized expense reports.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Automation and Future Reporting Enhancements</title>
+      <description><![CDATA[The report ranks vendor expenses so departments can identify critical versus non-critical spending, aiding decisions on delaying or canceling expenses.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Roles, Hours, and Communication Guidelines</title>
+      <description><![CDATA[The consultant is currently committed to 25 hours per week, with flexibility to adjust as needed, aiming to streamline financial processes and reduce senior management workload.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Roles, Hours, and Communication Guidelines</title>
+      <description><![CDATA[Financial analysts (including Scott and Rye) are aligning responsibilities, with Scott focusing on SAGE implementation support and others handling cash management.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Roles, Hours, and Communication Guidelines</title>
+      <description><![CDATA[Communication protocol: CC on emails means “for your information,” while tagged emails require immediate action.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Obtain ETA from Rye on remaining entities’ tie-outs and deferred revenue schedule alignment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Enhance and distribute the weekly cash flow report (including assumptions, top spend details, and 13-week projections) using the updated RISE file.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[[ ] Schedule bi-weekly financial review meetings with facility leads to monitor KPIs such as food cost per patient day and expense control.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current Workload and Client Updates</title>
+      <description><![CDATA[Speaker 1 has been very busy, with approximately eight clients recently leaving, many described as "needy."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current Workload and Client Updates</title>
+      <description><![CDATA[Speaker 1's ongoing duties include teaching, graduation programming, and general alumni engagement at "the lodge."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current Workload and Client Updates</title>
+      <description><![CDATA[Speaker 1 is actively managing a busy week with client transitions and new client interest, indicating a good but demanding period.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Alumni Engagement and Content Strategy</title>
+      <description><![CDATA[Speaker 1, currently "Director of Alumni Programs," is considering a title change to "Senior Director" or "Senior Director of Programming," noting that a long title isn't necessary for feeling valued.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Alumni Engagement and Content Strategy</title>
+      <description><![CDATA[Speaker 1 proposes creating content (e.g., for Instagram or YouTube) to maintain alumni connections, viewing it as a "value add" to their job.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Alumni Engagement and Content Strategy</title>
+      <description><![CDATA[The upfront cost would be minimal, requiring only a small handheld camera, as Speaker 1 is already present at "the lodge" and can video and edit.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Strategic Planning and Organizational Goals</title>
+      <description><![CDATA[A strategic planning meeting is scheduled for the week of the 21st–24th (Speaker 2 initially thought 21st-23rd, then corrected to 22nd-24th), involving out-of-town participants.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Strategic Planning and Organizational Goals</title>
+      <description><![CDATA[Speaker 2 aspires for the organization to be recognized as the best treatment center in Colorado, though acknowledges not everyone would give a "resounding yes." Speaker 1, however, believes they are the best treatment center in Colorado, period.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Strategic Planning and Organizational Goals</title>
+      <description><![CDATA[Weaknesses include the IOP program needing help and readmissions being a concern for Speaker 2.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Compensation and Role Expansion</title>
+      <description><![CDATA[Speaker 1 lost approximately $30,000/year due to the discontinuation of "six west," which was a yearly amount.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Compensation and Role Expansion</title>
+      <description><![CDATA[Speaker 1's current salary is $95,000/year.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Compensation and Role Expansion</title>
+      <description><![CDATA[Speaker 1 is seeking a compensation adjustment to recover this lost income, referencing another employee, Major, who went from $90,000 to $135,000 after their first promotion.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Business Development and Market Presence</title>
+      <description><![CDATA[Speaker 2 intends to leverage Speaker 1's skills for BD in important cities, potentially by having Speaker 1 do BD one day a week.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Business Development and Market Presence</title>
+      <description><![CDATA[The current BD rep's underperformance is noted, and Speaker 2 confirms they are hiring someone else, having shown the current rep a map of their assigned territory (colored zip codes with 16.5-mile radii around two sites).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Business Development and Market Presence</title>
+      <description><![CDATA[Speaker 1 noted that the previous BD rep, Desiree, despite personal issues, did get people into "the launch."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Operational Feedback and Process Improvement</title>
+      <description><![CDATA[Alumni frequently report difficulty contacting the finance department post-discharge, with Speaker 1 receiving daily questions about it.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Operational Feedback and Process Improvement</title>
+      <description><![CDATA[Speaker 1 suggests streamlining communication, possibly by ensuring case management has finance emails, to smooth out this process.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Operational Feedback and Process Improvement</title>
+      <description><![CDATA[Speaker 2 has a meeting scheduled with the finance department next week to understand their operations, noting that finance is not consistently billing or collecting money from all clients, including on the back end of treatment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Scalability and Future Planning</title>
+      <description><![CDATA[Speaker 1 currently manages extensive outreach, monthly follow-ups, phone calls, and support calls (e.g., a 6:30 am call for short-term disability paperwork).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Scalability and Future Planning</title>
+      <description><![CDATA[The alumni engagement workload is increasing as the program grows, requiring consideration of scalability.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Scalability and Future Planning</title>
+      <description><![CDATA[Potential solutions include additional staff (e.g., a "mini Nicole" to learn the ropes) or technology (e.g., an app), with technology being viewed as the "cheapest FTE" in Vail, Colorado.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recognition and Organizational Culture</title>
+      <description><![CDATA[Speaker 2 recognizes Speaker 1 as a "bright spot" and a key asset in the organization, particularly for alumni engagement, noting Speaker 1's ability to work with clients and provide "street cred."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recognition and Organizational Culture</title>
+      <description><![CDATA[Speaker 2 emphasizes leveraging Speaker 1's strengths and passion for client care, noting Speaker 1's belief in the organization as the best treatment center.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recognition and Organizational Culture</title>
+      <description><![CDATA[Speaker 2 desires to formalize event planning and engagement responsibilities to maximize Speaker 1's talents, potentially by having Speaker 1 book a certain number of meetings or close deals.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Speaker 2 to develop a compensation proposal for Speaker 1 by Friday (paperwork to be drafted Thursday).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Speaker 2 to consider expanding Speaker 1's role, potentially including formal event planning and/or additional BD responsibilities, to leverage talents to the fullest.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[[ ] Speaker 2 to meet with the finance department next week to review and streamline alumni billing and communication processes, and understand their operations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Definitions and Classifications</title>
+      <description><![CDATA[**"Unable to disclose"**: The insurance company explicitly refused to provide the information.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Definitions and Classifications</title>
+      <description><![CDATA[**"Unknown"**: No contact could be made with the insurance company to obtain the information. It was also suggested and agreed upon to reclassify this status as “not yet identified” for improved clarity.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Definitions and Classifications</title>
+      <description><![CDATA[**"Paid to subscriber"**: Indicates that the claim was paid to the client, confirmed once the Explanation of Benefits (EOB) is received.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Spreadsheet and Data Management</title>
+      <description><![CDATA[The spreadsheet contains a complex dataset with about 22,000 lines.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Spreadsheet and Data Management</title>
+      <description><![CDATA[The creation of this spreadsheet was noted as one of the most challenging tasks undertaken at APN, providing significant learning opportunities, including identifying inefficiencies.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Spreadsheet and Data Management</title>
+      <description><![CDATA[Detailed explanations for claim statuses are included alongside the data.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Network Adequacy Map and Data Mapping Process</title>
+      <description><![CDATA[NOAA requested a network adequacy map, which involves managing large datasets (about 10GB per state).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Network Adequacy Map and Data Mapping Process</title>
+      <description><![CDATA[Extensive research has been conducted to ensure the defensibility of the approach, and the mapping process itself is estimated to require about 50 hours of work.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Network Adequacy Map and Data Mapping Process</title>
+      <description><![CDATA[The process includes pulling data from the National Provider Registry, cross-referencing taxonomy codes, and mapping these to Blue Cross MPI numbers.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Development and Financial Considerations</title>
+      <description><![CDATA[There is a verbal agreement for an additional $6,000 cost, verified by Katrina.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Development and Financial Considerations</title>
+      <description><![CDATA[The developer is responsible for processing the network adequacy map on a state-by-state basis.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Development and Financial Considerations</title>
+      <description><![CDATA[The initial phase will focus on mapping for Colorado, after which a decision will be made on expanding to other states.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Follow up on the verbal agreement regarding the additional $6,000 cost and ensure Katrina's verification is documented.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Send the detailed explanation of claim statuses (including "unable to disclose," "unknown," and "paid to subscriber") to the relevant colleague.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[[ ] Confirm and share the location of the online definitions file to ensure a single, consistent version is used.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:10:15 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+  </channel>
+</rss>
