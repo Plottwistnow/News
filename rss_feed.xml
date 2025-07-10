@@ -1,0 +1,1488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>APN News Feed</title>
+    <link>https://github.com/Plottwistnow/News</link>
+    <description>Auto-generated feed from converted_output.xml</description>
+    <item>
+      <title>Meeting Participants and Invitations</title>
+      <description><![CDATA[- Participants: Mr. Rye, Mr. Archer (present in the call), Anthony (invited), Micah, Eric, Scott, Katrina, Noah, Paul, Sarah, Emily Cronin, Jessica, Anna, and Lance (all mentioned in the discussion).
+- Decision to invite Anthony to the call and include him in regular interactions, including a standing call, to align on cash projections and future business forecasting.
+- Plan to schedule daily stand-up calls to ensure the team stays on the same page, receives necessary support, and identifies if anything is going off track.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow and Forecasting</title>
+      <description><![CDATA[- Cash flow visibility: Daily updates showed an increase from $31K to $39K, which was not considered "very good"; a drop in collections was attributed to a holiday.
+- Cash projections discussed:
+  - Micah’s machine learning model predicts insurance cash flows for existing business with historical accuracy within 5% of actual collections. This model is granular, analyzing average DSO by payer and prefix.
+  - Rye’s approach focuses on private history and includes private pay, which is considered a sensible approach for those averages.
+  - Agreement to combine Micah’s insurance forecast (for existing business) with Rye’s private pay projections, and Anthony will collaborate with Micah to forecast future business cash flow.
+- The rolling average method is considered the smartest approach for cash flow projections.
+- The RefRec template is now being used 100% of the time in Sage, enabling more accurate RefRec forecasts instead of relying solely on rolling averages.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>P&amp;L and General Ledger (GL) Taxonomy</title>
+      <description><![CDATA[- Noted confusion in the P&L due to summing many numbers and grouped GL buckets, requiring review.
+- A taxonomy has been created to:
+  - Classify client accounts by priority (e.g., client safety, regulatory) to guide payment prioritization.
+  - Guide payment prioritization across departments, acknowledging the complexity of balancing bills and departmental needs without ignoring any.
+- GL reconciliation discussed:
+  - Separate review of accounts is needed to verify that items marked for cancellation (e.g., Sims' cancellations) were actually canceled.
+  - An aggregated general ledger report, including scores and a prioritized list for pending bills and expenses, will be provided to check if items have been removed.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Closing Deadlines and Payment Scheduling</title>
+      <description><![CDATA[- Target dates for closing accounts: A business day deadline (around the 10th or 15th) was discussed, with final closure agreed upon with Eric by the 20th. The team is in a good position to beat the 20th.
+- Emphasis on rapid closure ("faster is better") to proactively address potential cash shortfalls.
+- Need for a method-based Accounts Payable (AP) process to prevent overpayment (e.g., avoiding a single $300K vendor payment). The goal is to establish a governing document for AP by the next quarter.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>System Integrations and Data Management</title>
+      <description><![CDATA[- Effort to transcribe recent messages and current discussions for record-keeping and future reference.
+- SAGE and LBMC discussed:
+  - A project plan drafted by Arthur, outlining tasks, responsibilities, and constraints, is scheduled for discussion tomorrow.
+  - NetSuite layered books, allocation journals, and accrual journals are under review to correct discrepancies caused by Eric's import template, which only pulled accruals and missed corporate allocations.
+  - NetSuite will serve as the source of truth for 2024 financial records, a time-intensive process estimated at four hours per site for December data alone (12 months x 9 locations).
+- Future plans include setting up reconciliation and matching rules in Sage, potentially integrating AI for faster processing, though the team currently lacks knowledge on how to use these features, and Eric never utilized them.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accruals, Revenue Recognition, and Forecast Adjustments</title>
+      <description><![CDATA[- Debate on using actual cash collections versus standard accruals:
+  - Noah prefers accrual based on average in-network rates, but this method has led to significant discrepancies (never within 30%) compared to actual cash collections, making board meetings feel like a "magic show."
+  - The variety in insurance payments (e.g., United Healthcare) complicates accrual accuracy.
+  - Discussion of "comic book" P&L versions (a metaphor for investor-facing vs. internal P&Ls) and the potential for high/mid/low scenarios to manage investor perceptions, while being cautious about "defrauding investors," especially with a "tough" CPA on the board.
+  - Need to track contractual adjustments and bad debt, with a suggestion to initially write off bad debt and add it back if collected, similar to a historical "quarterly adjustment bucket."
+- Suggestion to have Anthony join calls with Eric to understand year-to-date performance and Eric's past forecasting methods, particularly noting the "sloppiness" of his Excel work and its translation into the accounting system.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Staffing and Resource Allocation</title>
+      <description><![CDATA[- The finance function is under-resourced, likened to having "too many chiefs and not enough Indians."
+  - Proposal to add two or three additional staff ("Scots" or similar) to support cash flow reconciliation and revenue tracking.
+  - Discussion on the necessity of training and onboarding new team members, potentially with Scott's oversight, to ensure the finance function is well-staffed and avoids future suffering.
+- Plan to leverage Scott’s expertise for cash reconciliation, then transition him to revenue and bad debt management.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Human Resources and Vendor/Employee Documentation</title>
+      <description><![CDATA[- Tax documentation issues (W-9s and W-2s):
+  - Several employees reported discrepancies, such as having the wrong W-2, only one W-2, or multiple W-2s (e.g., Katrina received two W-2s and a corrected W-2).
+  - Resolution: The issue stemmed from Lance's failure to close out the previous system before PayCore. PayCore issued W-2s for the first quarter, which were superseded by corrected W-2s, and to the company's knowledge, all employees should now have the correct forms.
+- HR concerns about external representation:
+  - Concerns regarding Paul’s role in representing the company, as he is perceived as more effort than value, and the speaker is uncomfortable with him representing the company in the community, leading to a potential separation.
+  - Plan to discuss sensitive HR matters with Sarah, copying Emily Cronin, who serves as the HR consultant.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Financial and Operational Considerations</title>
+      <description><![CDATA[- Detailed review of revenue buckets: The four main buckets are private pay, insurance payments, paid to subscriber (PTS), and inside sales/extensions. Insurance and private pay are the largest.
+- Extensions and inside sales revenues are tracked using a client taxonomy: P1 (private pay, no discount), P2 (private pay, some discount), I-1 (good insurance rate/deductibles paid), I-2 (barely scraping by), and scholarship. This taxonomy will eventually help predict revenue based on census data, but it will take about six months to flesh out. PTS can be volatile.
+- Expense management: Accurate future expense projections are crucial for APN, which is currently distressed. The goal is to reduce recurring expenses to below $4 million (currently $4.2 million), acknowledging that expenses increase with growth.
+- Coordination with external parties: Ongoing discussions with LBMC involve receiving "homework" and learning how to perform tasks offline.
+- Emphasis on using free resources and making cost-conscious operational decisions, exemplified by Jessica's budget-minded approach. The company aims to reach $3.5-$3.6 million in cash to break even, having reached $3.4 million last month.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[- [ ] Invite Anthony to daily stand-ups and regular calls.
+- [ ] Check transcription of recent messages and current discussions to ensure complete information capture.
+- [ ] Review and agree on a unified cash projection method (combining Micah’s insurance forecast with additional forecasts for private pay and future business, with Anthony's input).
+- [ ] Finalize GL taxonomy and confirm the actual cancellation of outdated or duplicate accounts.
+- [ ] Verify all employees have received the correct W-2s.
+- [ ] Present the SAGE and LBMC project plan in tomorrow’s meeting.
+- [ ] Revisit accrual revenue methodology and consider developing high/mid/low P&L scenarios, addressing concerns about investor transparency.
+- [ ] Discuss HR matters regarding Paul with Sarah and include Emily Cronin.
+- [ ] Explore staffing additions and training plans to support the finance function, potentially with Scott's assistance.
+- [ ] Schedule a follow-up call between Anthony and Eric to review year-to-date revenue performance and understand Eric's past methods.
+- [ ] Reconcile trial balance data and update site accounts by next week, with Scott's assistance.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Client Engagement &amp; Calculator</title>
+      <description><![CDATA[- Nicole met with Jeremy yesterday.
+  - Nicole secured the client "Superbar."
+  - Jeremy mentioned training on using a specific calculator.
+- Nicole responded that she already knew the calculator, claiming “they stole it from a place we used to work.”
+  - The speaker clarified that they had never seen the version Nicole referenced.
+  - The speaker demonstrated a Salesforce version of their calculator to Nicole, who appeared impressed.
+- The discussion emphasized the importance of using standardized calculator methods across teams, noting that methods should be uniform and not subject to individual claims or changes without verification. The speaker highlighted that their calculator was superior, capable of handling variables for precise quoting, unlike the "chicken scratch in Excel" version Nicole might have been familiar with.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>SharePoint Site &amp; Organizational Structure</title>
+      <description><![CDATA[- There is an existing SharePoint site, and a SharePoint meeting is scheduled for noon.
+- The discussion focused on establishing the minimum required number of SharePoint sites to ensure comprehensive coverage.
+  - Sites must follow naming conventions similar to those used in the HRIS.
+  - Site names may need to align with the 68 simplified job titles.
+- Proposed grouping within SharePoint aims for clarity and ease of access:
+  - Grouping by organizational categories such as Executive Team, Direct Care, Business and Operational Support, Ancillary Services, and Leadership & Strategy.
+  - Special emphasis was placed on Nursing and Clinical sectors.
+    - While individual nursing teams may have their own folders, common files should be accessible to all nursing and clinical users.
+    - The structure should centralize common resources to minimize disjointed access, ensuring a specific enough concentration of information so users don't have to dig to find what they need.
+- Considerations for restructuring current SharePoint usage include:
+  - Restructuring current group usage.
+  - Limiting the ability to create new groups to prevent disorganization.
+  - Acknowledgment that this restructuring may involve challenging changes and potential resistance ("ruffling feathers") from current practices, and the speaker is unsure if others share this mindset.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Resource Allocation &amp; Task Prioritization</title>
+      <description><![CDATA[- Concerns were raised about managing time and resource allocation, particularly balancing revenue-generating tasks with organizing the SharePoint site.
+  - The speaker noted that both tasks cannot be completed simultaneously, emphasizing that this is impossible given their work style.
+- Options discussed for meeting demands include:
+  - Delegating SharePoint restructuring to a contractor if internal capacity is insufficient.
+- Specific actionable items mentioned:
+  - Marissa’s request for an organizational chart built in SharePoint, which the speaker considers easy and manageable within an hour.
+  - HR’s crucial involvement in maintaining updated organizational structures and documentation.
+- Final thoughts on prioritization underscore the urgent need to set clear priorities and receive direction on which tasks have higher immediate value. The speaker plans to use the next 10 minutes to clarify their own plan and priorities before the meeting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Clarify priorities between revenue-generating activities and SharePoint site restructuring.
+- [ ] Determine if a contractor is needed for SharePoint restructuring and initiate the hiring process if necessary.
+- [ ] Build an organizational chart in SharePoint as requested by Marissa.
+- [ ] Establish and document a unified folder structure for Nursing and Clinical teams.
+- [ ] Implement access restrictions and guidelines for creating new organizational groups.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>SharePoint Structure and Governance: Key Points and Process Overview</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current State and Challenges</title>
+      <description><![CDATA[- **SharePoint System Growth and Issues**
+    - The SharePoint environment has expanded rapidly and gone "rogue," resulting in a proliferation of sites and a significant lack of centralized control.
+    - Creation of new team and communication sites has been prohibited to curb uncontrolled growth, but some users still retain this ability, posing ongoing risk.
+    - Issues include confusion over document locations, inconsistent communication, and increased risk exposure due to the difficulty in knowing where information and documents reside.
+    - Establishing better structure for posting policies is a key objective to ensure everyone knows where to find them, addressing current disorganization where the "left hand is not talking to the right hand."
+- **Permission and External Sharing Risks**
+    - Permissions are overly permissive and have "crept up," with widespread use of sharing links offering "anyone with a link" edit or read access.
+    - External sharing has grown exponentially since 2023; while some is justified, much poses significant HIPAA and security risks, requiring better control.
+    - Compared to Vail Health, a local hospital that has prohibited all external sharing due to HIPAA complaints and investigations, APN’s more distributed and remote nature requires a tailored approach to external sharing.
+    - The current system poses HIPAA risks and challenges with external sharing and permission levels.
+- **Navigation and Adoption Problems**
+    - SharePoint site adoption is low; most users prefer team sites or OneDrive due to familiarity and the perceived ease of use, despite efforts to encourage specific SharePoint site usage.
+    - Absence of a centralized intranet or home site makes navigation and document retrieval difficult, contributing to a lack of organization and a "huge challenge" for navigation.
+    - Example: A financial document was created outside its secure finance folder, leading to increased visibility and reduced security, highlighting the need for a more organized audit process.
+    - The current environment lacks a true intranet, making it difficult for users to navigate directly to internal SharePoint sites.
+- **Departmental and Process Complexity**
+    - The organization comprises over 24 simplified departments (e.g., acquisition, business development, contact center, ancillary) with unique needs, plus cross-functional processes requiring shared access and communication (e.g., clinical services in client lifecycle management).
+    - The current folder-based hierarchy, where one team site contains individual folder structures, is ambiguous and confusing, leading to frequent questions in the ticket system. Other organizations use a cleaner site-per-department model.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Proposed Vision and Solutions</title>
+      <description><![CDATA[- **Structural Overhaul**
+    - Transition to a site-per-department and site-per-process model, giving each department its own SharePoint site, with the vision that "everything you could ever need is going to be on there, it's indexed."
+    - Universal access to policies and procedures via links on each site, ensuring common resources are readily available.
+    - Clear separation of public and private files, with permissions based on role (frontline workers, middle management, senior management) within each department.
+    - The overall structure needs to be driven by business needs, defining deliverables, constraints, milestones, and stakeholder engagement.
+- **Centralized Home Site**
+    - Establish a SharePoint home site (intranet) as the single entry point for all staff, providing a psychologically safe and high-functioning environment.
+    - The home site will feature announcements, general HR documents, links to department/process sites, and serve as a template for sub-sites, making it easier to update and maintain data consistency.
+    - This will improve onboarding, communication, and reduce confusion by providing a clear starting point for all information.
+    - A home site would also provide a template for file structure and hierarchy for individual team sites.
+- **Security and Permissions**
+    - Use security groups to control access and external sharing based on organizational roles, allowing specific capabilities for certain groups while restricting others.
+    - Limit external sharing to only those who require it (e.g., investor relations needing to communicate with 200 investors); restrict for clinical staff to comply with HIPAA, as their client-related sharing should occur via secure email or Kifu.
+    - Conduct regular audits and utilize reports to monitor site activity, data volume, and relevance, including utilization stats and last use dates to identify unused sites.
+    - Implement a "member-visitor scale" for managing download and edit access per site based on department and role.
+- **Change Management and Adoption**
+    - Emphasize cultural adoption and clear communication about the reasons for change, recognizing that this is a significant shift.
+    - Recommend a leadership statement (video or document) to transparently explain the rationale and benefits, fostering buy-in and outlining the end goal and pathway.
+    - Conduct training at least annually on Teams, SharePoint, OneDrive, email, and Zoom, as current ticket system requests indicate a tremendous need for training.
+    - A "behavior first framework" will be used to guide and direct the transition.
+- **Phased Implementation**
+    - Begin with a small, targeted pilot (e.g., the home site) to demonstrate value and refine the approach, allowing for scaling with intent.
+    - Use data (utilization stats, last access dates, sheer amount of data) to prioritize which sites/folders to migrate or clean up, identifying where to start.
+    - Roll out the new structure gradually, incorporating ongoing feedback and adjustments, with a focus on design and planning before implementation.
+    - The project is expected to bring long-term ROI, making it a worthwhile endeavor to chip away at.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Data, Facts, and Examples</title>
+      <description><![CDATA[- **Audit and Inventory**
+    - Plan to distribute an Excel spreadsheet inventory of all current SharePoint sites, groups, and folders for review and cleanup, shared via SharePoint and APN email for collaboration.
+    - Include utilization reports showing activity levels, data volumes, and member counts per site/group to identify usage patterns and potential "rogue" groups.
+- **Examples of Issues**
+    - Financial documents created outside the finance folder, leading to security concerns and highlighting the need for better organization.
+    - Frequent support tickets regarding document locations and access, indicating widespread confusion.
+    - Deletion of five outdated COVID-related sites as part of initial cleanup efforts, demonstrating the need for ongoing maintenance.
+    - Issues with users incorrectly setting access permissions, leading to files being corrupted or inaccessible.
+    - The challenge of consolidating or migrating information from potentially 500 existing email groups/SharePoint sites.
+- **External Sharing**
+    - Currently enabled but under review; some departments (e.g., investor relations) require it for operational needs, while others (e.g., clinical staff) do not and should be restricted for HIPAA compliance.
+    - The current restriction on external sharing was temporarily lifted but can be easily re-imposed or managed by groups.
+- **Consulting and Resources**
+    - Reference to a previous consulting engagement with Able Consulting in 2023 for SharePoint/intranet design, indicating prior exploration of solutions.
+    - Internal resource constraints acknowledged; there is a need to balance project work with ongoing operations and avoid detracting from internal resources that generate revenue.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Conclusions</title>
+      <description><![CDATA[- The current SharePoint environment is fragmented, insecure, difficult to navigate, and has grown "rogue" without sufficient control.
+- There is consensus on the need for a more structured, department-based and process-based site architecture anchored by a central home site (intranet).
+- Security, compliance (especially HIPAA), user adoption, and clear communication are primary concerns that must be addressed.
+- A phased, data-driven approach is preferred, starting with a pilot (like the home site) and scaling up, with a focus on design and planning.
+- Ongoing training, clear communication, leadership support, and a "behavior first framework" are critical for the project's success and cultural adoption.
+- The project is considered very important for organizational efficiency, protection of staff and clients, and data security.
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[- [ ] Distribute an Excel spreadsheet inventory of all current SharePoint sites, groups, and folders for review, shared on SharePoint and via APN email for collaboration.
+- [ ] Include utilization reports (activity, data volume, last access, member count) with the inventory spreadsheet to guide cleanup and prioritization.
+- [ ] Solicit feedback and contributions from team members on the inventory document to identify relevance and impact of existing sites.
+- [ ] Propose a new SharePoint structure (site-per-department/process, home site) and circulate for consensus, potentially including wireframe structures.
+- [ ] Develop and share a security groups template for role-based access control, critical for implementation.
+- [ ] Draft a leadership statement (video or document) explaining the rationale and goals for the SharePoint overhaul to foster buy-in.
+- [ ] Plan and schedule regular (at least annual) training sessions on Teams, SharePoint, OneDrive, email, and Zoom to address current knowledge gaps.
+- [ ] Schedule a follow-up meeting (suggested biweekly cadence) to review progress and next steps, keeping the project rolling.
+- [ ] Identify and assign roles/functions needed for implementation (e.g., developer, thought leader, project manager) to manage workload.
+- [ ] Gather and share examples of clean intranet designs and associated costs/resources, potentially leveraging past consulting proposals.
+- [ ] Begin phased cleanup of existing sites/groups, prioritizing based on utilization data and the sheer amount of data in a site.
+- [ ] Define and implement external sharing policies by department, balancing operational needs and compliance, with a proposed plan.
+- [ ] Share a project scope template for team review and agreement on deliverables, constraints, and milestones, ensuring a structured approach.
+- [ ] Maintain ongoing communication and feedback loops throughout the project to ensure continuous improvement and adaptation.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Key Points and Process Overview</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Travel and Scheduling</title>
+      <description><![CDATA[- An upcoming trip to Florida with Lee is scheduled, departing early Thursday, with activities planned for both Thursday and Friday.
+- A meeting is scheduled for the 24th of this month at the Lodge. Booking and organization for this meeting are currently underway, with the speaker planning to book it today and send out messages.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Telehealth and Admissions Update</title>
+      <description><![CDATA[- Telehealth activity is increasing, specifically with more TIOP (Telehealth Intensive Outpatient Program) cases coming in, indicating a positive trend.
+- Robin successfully admitted a client with an eating disorder background, leveraging her expertise in that area, which signifies growth in this specific segment.
+- Vicki had a strong previous month and continues to perform well. Lee is also actively networking and generating referrals, with the expectation that her efforts will lead to more clients as people start talking.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Management and Winback Strategy</title>
+      <description><![CDATA[- A new, organized Winback account list has been created, which is categorized by account name and owner within Salesforce. This list was recently organized to be more effective.
+- The list tracks crucial metrics such as admits, opportunities, and the last referral dates for each account, allowing for efficient filtering by account owner, such as Desiree or Craig.
+- It has been identified that some accounts, like Mountainside and Dylan, may be miscategorized and require verification and correction to ensure accurate assignments.
+- There is an emphasis on not neglecting smaller or less active accounts, including "onesies twosies" or those that might be easily forgotten, like Jeffrey Seal.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Discharge Process</title>
+      <description><![CDATA[- There is significant frustration with delays in communication, particularly when clients have signed releases. The expectation is for immediate communication once a release is signed, without further internal deliberation.
+- Recent issues have arisen with Valiant requesting paperwork for referred clients, highlighting the critical need for discharge paperwork to always be available, especially for high-end or concierge clients.
+- Discharge paperwork should be sent to parents if they have complete medical oversight, particularly in cases like Bradley Benson where clients cannot manage their own records. The speaker is "90% sure" this is permissible.
+- Reliance on Sarah Fisher for medical records has created a bottleneck. Blair stepped up and provided backup support by sending records when Sarah was unavailable, demonstrating the need for alternatives.
+- It is necessary to clarify with Desi, who manages Sarah Fisher, who the alternative contact is for sending out medical records when Sarah is out or unavailable.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Process Improvements and Tools</title>
+      <description><![CDATA[- An upcoming implementation involves a "quick card," also referred to as a "Jason card," within Teams. This tool will allow therapists to document specific recommendations (e.g., PHP IOP for a certain duration) for clients, streamlining communication with finance and other departments regarding collection.
+- This process improvement is expected to launch within the next 30 days, aiming to streamline the entire process.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recruiting and Staffing</title>
+      <description><![CDATA[- There is a clear need for more representatives, specifically on Desiree's side of things and in Dallas.
+- Kyle has been identified as a strong candidate for a new rep role. He is described as a "worker" and "team player" with existing experience and valuable contacts in areas like Ventura (where he lives), Santa Barbara, San Francisco, and Colorado, including connections like Cheyenne from Vail Health.
+- A proposal suggests assigning Kyle to Northern California and VA accounts, potentially with the title "Director of Community Relations, California/VA" or "West" to encompass a larger area, including California VAs and Utah VAs.
+- Discussion included territory management, proposing a structure of primary markets (visited weekly), secondary markets (visited monthly), and tertiary markets (visited once a quarter) to ensure broader coverage.
+- Paul in Dallas is likely to be terminated soon due to performance issues and concerns about his sobriety, as he requires babysitting in accounting and is not deemed suitable to represent the company in the field.
+- The job description for a new Colorado rep will specifically focus on the Denver metro market.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Account Ownership and Performance Tracking</title>
+      <description><![CDATA[- The importance of tracking account assignments and performance over time was emphasized, using the ERC account as an example for reassignment and follow-up. A formula suggests accounts that can refer monthly should be touched at least once a month.
+- A plan is in place to have Micah create a dashboard to monitor account touches and referral activity over the last three months. This tool will help identify underperforming accounts and optimize rep efforts by showing how many times an account has been touched and if it's time to move on.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Marketing and Conference Planning</title>
+      <description><![CDATA[- There is a significant need for updated marketing collateral, including APN pop-up banners, overall banners, professional banners, tablecloths, pens, mugs, and other giveaways for events and conferences.
+- The estimated budget for these marketing materials is close to $10,000. It is recommended to spread this cost over three months, allocating approximately $3,000 per month.
+- The plan is to prioritize purchases and sequence spending over the next 90 days based on immediate needs.
+- For conference participation, a booth at a September event where Phillip and Amy are speaking costs $1,500. While sponsorship was considered, the preference is for a table-only presence, as conference sponsorships are often not memorable.
+- For the East Coast Symposium in Florida, the plan is to buy a ticket and host a dinner, similar to previous years, rather than sponsoring or hosting a booth, as this approach allows for effective networking.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Team Management and Communication</title>
+      <description><![CDATA[- The short-term admissions goal for the entire team (excluding Nicole) is 20 admits per month, an increase from the current 17.
+- A plan is to schedule weekly 30-minute one-on-ones with all representatives, preferably back-to-back on Fridays, to streamline the process.
+- During these one-on-ones, reps will receive the win-back list and review their weekly meetings and next steps.
+- The development of a dashboard for tracking rep touches with accounts will support these discussions.
+- There is an emphasis on being prescriptive with reps, guiding them on where to focus efforts and when to move on from accounts that are not referring, especially if they've been touched numerous times without results.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Miscellaneous</title>
+      <description><![CDATA[- Lee and Robin are noted for being responsive and following directions well, which has contributed positively to telehealth admissions.
+- The speaker is actively managing ongoing marketing efforts and conference logistics until these processes are fully established within the role.
+- Coordination with Jess and other marketing contacts is ongoing to ensure that marketing materials are procured cost-effectively and are not overpriced.
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements and Action Items</title>
+      <description><![CDATA[- [ ] Book and organize the meeting at the Lodge for the 24th of the month.
+- [ ] Share the updated Winback account list with relevant team members.
+- [ ] Verify and correct account assignments in Salesforce, specifically for accounts like Mountainside and Dylan.
+- [ ] Clarify with Desi who is the backup for sending medical records when Sarah Fisher is unavailable.
+- [ ] Implement the "quick card" (Jason card) process in Teams within the next 30 days.
+- [ ] Finalize Kyle's role and territory assignment, including discussions with Craig and confirmation of his title (e.g., Director of Community Relations, West).
+- [ ] Post job descriptions and initiate recruitment for new rep positions in Colorado (focusing on the Denver metro market) and Dallas.
+- [ ] Develop and share a dashboard to track account touches and referral activity, to be created by Micah.
+- [ ] Schedule weekly 30-minute one-on-ones with all reps, preferably back-to-back on Fridays.
+- [ ] Sequence marketing collateral purchases over the next 90 days, prioritizing immediate needs and adhering to the $3,000/month budget.
+- [ ] Register for the September conference (securing a table only) and plan for East Coast Symposium attendance, including hosting a dinner.
+- [ ] Send the win-back list to reps and review weekly progress and next steps during one-on-ones.
+- [ ] Coordinate with Jess and others to ensure cost-effective procurement of all marketing materials.
+- [ ] Monitor and continue to support Lee and Robin's telehealth outreach and admissions efforts.
+- [ ] Follow up on the call with ILC and other pending partnership opportunities.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Scheduling and Meetings</title>
+      <description><![CDATA[- Weekly touchpoints will begin on Friday.
+  - Marissa has created a preliminary schedule.
+  - Meeting order is based on dependency mapping, ensuring each discussion builds on prior inputs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure and Staff Evaluations</title>
+      <description><![CDATA[- Communication and leadership concerns:
+  - One team member struggles with orientation, teaching, and communication skills.
+  - Caleb displays unprofessional behavior, refusing to work with certain colleagues, particularly in Roger's absence regarding a re-admit case.
+- Staff performance observations:
+  - Clinical managers and staff (e.g., Tammy, Katie) have not fully met expectations, with Tammy specifically failing to ensure clinical staff perform their jobs effectively.
+  - Some staff have not properly reviewed patient records or provided sufficient direction.
+  - A decision is needed on which roles (clinical managers vs. other leaders) add value to clinical operations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Clinical Processes and Data Analytics</title>
+      <description><![CDATA[- Weighting/taxonomy system implementation:
+  - Proposal to assign weights to DSM diagnostic codes to assess patient acuity.
+  - Power BI would visualize case acuity, similar to nursing level assessments based on patient acuity.
+  - This system could guide patient assignments (e.g., matching patients to Gerald’s prescribing capacity) and provide another data point for getting patients to PHP and IOP.
+  - The discussion noted that actuaries are now employed in the health space for value-based modeling using acuity data.
+- Revisiting pre-assessment scoring for new uses, potentially rekindling the score for different purposes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational Meetings and Structure</title>
+      <description><![CDATA[- Two-hour focused meetings by department:
+  - Finance, operations, and clinical teams will review quarterly status, objectives, and assign responsibilities.
+  - The goal is to clarify achievements, identify what to start/stop/do more of, and assign ownership.
+- Clinical manager responsibilities:
+  - Discussion on whether to maintain, reduce, or reassign clinical management resources.
+  - Noted that inadequate follow-up by on-call or on-site staff impacts patient care and team efficiency, with a directive for on-call staff to be on-site when needed.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Recruitment and Candidate Quality</title>
+      <description><![CDATA[- Faraday submitted 195 resumes, resulting in only one interview:
+  - This was a free trial service.
+  - Candidate quality was poor.
+  - One candidate had licensure issues and did not complete evaluations, highlighting recruitment challenges.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>FSPHP Certification and Industry Differentiation</title>
+      <description><![CDATA[- FSPHP certification discussion:
+  - Estimated cost is $11,000–$14,000 for a three-year cycle.
+  - Seen as a strategic differentiator, enhancing the organization’s standing with complementary groups (e.g., lawyer assistance programs, pharmacist networks) who often lack resources and look to FSPHP for direction.
+  - The certification requires training for clinicians and the involvement of an addiction medicine specialist, a role currently lacking within the organization.
+  - Leanna was noted to be unfamiliar with the professionals program, including its supervision and collateral data practices.
+  - Additional meetings planned with SACS on training and telehealth program negotiations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Telehealth and Expanded Service Tracks</title>
+      <description><![CDATA[- Considering combining tracks:
+  - Exploring merging athlete and professional treatment tracks.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Financial and Operational Updates</title>
+      <description><![CDATA[- Census and revenue:
+  - Current census is low (about 48), but daily revenue remains strong due to high daily rates, making more money than at a higher census of 68.
+  - Despite lower census, financial performance is improving (e.g., highest monthly cash collection of $3.5 million, with expenses around $4 million, and labor costs significantly down).
+- Daily rates and staffing:
+  - Example rates are $1,400–$1,650 per day.
+  - Comparing scenarios to optimize collections and staffing efficiency, including placing staff like Craig on a performance improvement plan due to low daily rates.
+- Ongoing challenges:
+  - The “medical problem” persists due to location and market competition, making it a constant challenge.
+  - Emphasis on short-term patient relationships and accepting staff turnover as part of the process, acknowledging that clinical directors often have a two-year lifespan.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Feedback on Personnel and Clinical Contributions</title>
+      <description><![CDATA[- Positive clinical feedback:
+  - A Washington PHP doctor (Dr. Sack) praised the team’s competence and effectiveness, calling them the "absolute best" and "most talented team."
+  - Clinical staff, such as Dr. Sack, provide timely return-to-work evaluations, offer teaching, explain complex drug screen results, and understand the professional program's return-to-work protocols (e.g., half-time work, reassessment after eight weeks).
+- Team dynamics:
+  - Some leaders and supervisors, like Sims, struggle with the emotional, crisis-driven nature of the work and can get overwhelmed or deflated.
+  - Management styles vary, from pragmatic and direct to relationship-focused approaches, with Sims being more relational and dependent on acceptance.
+  - Sims has observed that some therapists are not performing well.
+  - Hemphill serves as a valuable sounding board and mentor for Sims.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Psychedelic Treatments Initiative</title>
+      <description><![CDATA[- Executive retreats with psychedelic treatments:
+  - Suggestion to develop guardrails and structured guidelines for psilocybin or similar treatments, aiming to avoid unfocused use.
+  - Proposed a two-week psychedelic retreat for executive-style people.
+  - Consider consulting an addiction psychiatrist with psychedelic expertise, such as Ava, who has a thriving outpatient psychedelic practice and a triple AP fellowship from institutions like Sinai, and previously worked with the New York PHP.
+  - Aim to develop targeted, financially justified programs.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Observations on Meeting Effectiveness and Coaching</title>
+      <description><![CDATA[- Coaching and mentoring:
+  - One leader coaches less assertive managers (e.g., Sims) to balance therapeutic engagement with decisiveness, helping them manage emotions and maintain a positive outlook in crisis situations.
+  - Highlights differences between results-driven and relational management styles, emphasizing that staff are either "detractors or contributors."
+  - Peer feedback and on-site presence (e.g., Sims' presence improving Kim's attendance at staffings) are used to continually improve team performance.
+  - Marissa is working on identifying and categorizing barriers to change and resistance to change across departments, aiming for a standardized approach.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Schedule the weekly touchpoint meeting for Friday.
+- [ ] Send agenda and invitations for upcoming two-hour sessions by finance, operations, and clinical departments.
+- [ ] Review and finalize the dependency mapping for meeting order.
+- [ ] Follow up with SACS on telehealth program details and potential fee negotiations.
+- [ ] Organize a strategic session to assess DSM code weighting system implementation via Power BI.
+- [ ] Confirm FSPHP certification discussion arrangements and evaluate budget allocation.
+- [ ] Schedule a session on integrating athlete and professional tracks for telehealth and retreats.
+- [ ] Plan a coaching session with clinical managers to address performance and clarify roles.
+- [ ] Coordinate with Marissa to follow up on her work with the contact center and standardizing resistance-to-change categories.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Key Points from the Recording</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Call Context and Safety Notice</title>
+      <description><![CDATA[- The call was initially forwarded to voicemail.
+- The call specifically concerns an Uber trip or order.
+- A clear reminder is given not to share any personal details.
+- The call is explicitly stated to be recorded for safety and security purposes.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Financial Management and Variance Collection</title>
+      <description><![CDATA[- The primary focus is on actively collecting a variance to meet a targeted daily rate at any level of care.
+- There is a strong emphasis on learning from past experiences, as the past has led to nothing but financial distress.
+- A robust recommendation is made to question any preconceived beliefs or practices that were previously communicated, particularly concerning finances and the collection of less money. The speaker addresses "Desiree" directly in this context.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Communication and Support</title>
+      <description><![CDATA[- Assurance is provided that the feedback is not intended to be critical or accusatory, with the speaker stating, "I am not being hard on anyone and I am not pointing the finger at anyone."
+- Encouragement is given to reach out with any other questions or concerns.
+- Openness to communication is strongly emphasized, with a clear reminder to never hesitate to reach out for clarification or support.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Closing Remarks</title>
+      <description><![CDATA[- The recording features multiple expressions of gratitude and thanks, including "Thank you" and "Thanks for watching!".
+- A friendly and supportive tone is maintained throughout the communication, concluding with a distinct "Mwah!" sound.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Actively collect variance to achieve the targeted daily rate across all levels of care.
+- [ ] Critically review and question any preconceived beliefs or previous instructions, especially those related to financial practices and revenue collection, as encouraged by the speaker.
+- [ ] Proactively reach out for clarification or with any questions regarding financial processes or other concerns, as advised.
+- [ ] Maintain open and consistent communication channels for ongoing support and feedback.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Leadership Retreat Planning: July 21–23</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Retreat Objectives</title>
+      <description><![CDATA[- Host a leadership retreat for key leaders from all points north.
+- Conduct a quarterly wrap-up based on concepts from the book *Scaling Up* and the "Quarterly Finish Line."
+- Develop a retreat format that is meaningful and productive.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Format Considerations</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 1: Departmental Focus</title>
+      <description><![CDATA[- Organize meetings around core elements:
+    - Finance
+    - Operations
+    - Clinical Utilization Review / Length of Stay
+    - Strategic Partnerships and Marketing
+- **Pros:** Enables focused, specialized discussions.
+- **Cons:** May take people out of conversations, as expertise may not align with the specific topic (e.g., clinical staff contributing to profit and loss statements or allocations).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Option 2: Process-Oriented Focus</title>
+      <description><![CDATA[- Structure sessions around 12 key processes, including acquisition, client lifecycle management, and step downs.
+    - Reference: These 12 key processes are documented in existing files.
+- **Pros:** Fosters a greater understanding of what takes place in each process and how all team members contribute to it.
+- **Consideration:** While less specialized than a departmental focus, this approach aims to foster broader understanding and cross-functional engagement.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Additional Retreat Components</title>
+      <description><![CDATA[- A social dinner is planned for Tuesday evening.
+- A "Finish Line" all-staff in-person meeting will conclude the retreat.
+- Arrival is planned for Monday at noon in Vail.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Key Data and Facts</title>
+      <description><![CDATA[- Retreat dates: July 21–23.
+- Location: Vail.
+- Attendees: Key leaders from all points north.
+- Reference materials: *Scaling Up* book, 12 key processes (on file).
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Arrangements</title>
+      <description><![CDATA[- [ ] Decide on the retreat session structure: departmental vs. process-oriented.
+- [ ] Reference and prepare materials on the 12 key processes.
+- [ ] Schedule and organize the social dinner for Tuesday evening.
+- [ ] Plan the "Finish Line" all-staff meeting.
+- [ ] Confirm arrival logistics for Monday at noon in Vail.
+- [ ] Develop a detailed agenda incorporating *Scaling Up* concepts.
+- [ ] Seek general ideas on how the retreat could best be structured and utilize *Scaling Up* concepts.`operational performance` `staff management` `financial tracking`
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>⏰ Meeting Information</title>
+      <description><![CDATA[* Date & Time: 2025-07-09 08:59:40
+* Location: [Insert Location]
+* Attendees: [Insert Names]]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📝 Meeting Notes</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 1. Operational performance review, staff management, and financial tracking</title>
+      <description><![CDATA[* **13-week cash flow forecast and machine learning integration**
+    Discussion about refining the 13-week cash flow forecast within the next month or so and integrating insurance payer data with a machine learning model. The last five weeks' average is being used for cash forecasting and some other categories with a conservative approach, but not on insurance.
+* **Admissions and patient updates**
+    Updates on admissions, including a one-call closed cash payment from "ask flew right in added to detox." A patient went to the hospital after deciding to take 30 Librium before walking in the door; this was not an assessment issue, as he had a history of relapsing alcohol. Another patient is returning from the hospital after a self-detox protocol. Discussion of patient statuses and protocols.
+* **Lead source and status cleanup**
+    Discussion about cleaning up lead sources and statuses in CTMS, specifically removing phone numbers as a lead source, as reps are currently putting them in that category. CTMS has the phone numbers, and the team will work with Jess to ensure proper lead sources are attached. This cleanup will happen soon, likely within the next day or so, to establish actual, meaningful lead statuses.
+* **Call volume and staff productivity**
+    Review of inbound and outbound call volumes, with specific concern about Alex Nelson's productivity and lack of output. Discussion about her job status, health issues (she claimed an autoimmune disorder with many doctor's appointments when challenged), and interpersonal challenges (she stated she couldn't work with males on the morning shift, possibly due to resentment related to Shane and Kyle's FMLA).
+* **Staffing and retention issues**
+    Discussion about retaining Alex Nelson, addressing her concerns about working with male colleagues, and her claims of misogyny. She holds a manager plus admissions role, and her salary is approximately $80,000-$90,000. The speaker intends to try and retain her, encouraging her to bring any misogyny concerns up the chain for addressing.
+* **Documentation and performance management**
+    Instructions to send an email to Arthur immediately to document concerns about Alex Nelson's production, noting it's "way off," and to request a meeting, as there is difficulty getting her to respond. This is to set up documentation in case she leaves.
+* **Outbound call performance and weekend coverage**
+    Garrett's low outbound call numbers and burnout over the past weekend are discussed, evident from his assessment on Saturday where he missed a few spots. Plans are in place to provide backup.
+* **Staff turnover and hiring**
+    Chris did not work out due to job abandonment (no call, no show for two days), followed by a claim of pregnancy and miscarriage. Plans are to hire a replacement ASAP.
+* **Financial performance and cash collections**
+    Review of cash collections, including specific patient cases: David Wilmots, who lives in Aspen and rented his apartment, has about $90,000. His five-day detox was approximately $10,000. Karen's upgrade to a private room increased revenue by $30,000. The current bank balance is $312,000, with four admissions today expected to bring in $92,000, indicating a strong pace and moving in the right direction.
+* **Accounts receivable (AR) reconciliation**
+    Discussion about the need to reconcile differences in AR reporting, as Paul reports based on Stripe transactions, while others report based on booked data using three different categories.
+> **Conclusion**
+> 1. Lead source cleanup will be completed within the next day or so.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 2. Operational performance, staffing, legal actions, insurance claims, and strategic initiatives.</title>
+      <description><![CDATA[* **Staffing and Hiring Updates**
+    Discussion about Shane's schedule (going out at 10), coverage file jumping on earlier in the day, and the new hire's (Sandrock) start date, which is expected by next week pending background check and TP tests (she missed the window for the initial test). Emily Higginbotham's low hours (six last week) and possible need for better staff deployment are discussed, with questions raised about her effectiveness as a therapist and her need for more training on diagnosis codes, despite stepping in well otherwise.
+* **Account Management and Win-Backs**
+    Review of BD focus on win-back accounts, noting issues with data accuracy, such as outdated last activity dates (e.g., 7-20-22) and Nordheimer dropping off. Clarification was made that NOAAs are under employee referral. Justin Levine's account is a house account and not for reassignment (Kyle's request to take it on was denied), as the focus is on acquiring new accounts ("hunters, not farmers").
+* **MLB and IOP Admissions**
+    MLB admissions are increasing with three new MLB players in two weeks, randomly acquired without specific ties. IOP in-person admissions in Boulder are low, with one new one scheduled for the 13th, Edwards has been low, and Denver has been spotty, though a new one was admitted last week. DFW is mainly internal referral only, but most local people go there.
+* **Sober Living and IOP Revenue**
+    Discussion on the challenges of running IOP without quality sober living, noting that housing has impacted IOP and it's hard to do IOP without sober living, particularly "up there." The current sober living is arguably the "worst" in terms of people relapsing. There's a need for proper staffing and modeling of costs, including consideration of 1.2 people for overnights and day coverage.
+* **Detox Admissions and Operations**
+    Operational issues with detox admissions were discussed, including a case where TAC seemed overwhelmed and initially told Garrett "no" regarding a cash patient who ingested 30 pills and was getting on a jet. The speaker intervened, emphasizing that detox must take admissions, especially with other detox-only patients coming. Concerns about PRN medical use were also noted.
+* **Daily Rates and Financial Performance**
+    Current daily rates are $1,500 for RTC, $1,500 for PHP, and $1,275 for detox. It was noted that the current census is generating more real cash and revenue than previous higher censuses due to previously low daily averages.
+* **Veteran Discounts and Contract Terms**
+    Veteran discounts require significant approval (e.g., $30,000 per veteran), though this won't severely impact overall finances unless there are many veterans. Discussion on contract terms for clients with less than 30-day stays confirmed that the targeted daily rate is charged regardless of care level or timing to prevent clients from seeking cheaper rates by committing to shorter stays. New contracts are required after the initial term (e.g., at day 22 for a 21-day contract), with rates dependent on the new contract, calculator, and level of care.
+* **Calculator Accuracy and Insurance Claims**
+    Review of calculator accuracy for daily rates and insurance claims noted that it calculates accurately as data comes in. However, some policies have low rates from single claims, requiring reappeals to achieve higher rates across the board. Specific interest was expressed in "multiplayer ones" and Tri-West contracts where expected rates are not received, suggesting these should be challenged. Plutus needs to be consulted about the Tri-Care/Tri-West situation.
+* **Legal Filings and DocuSign Process**
+    Instructions were given to Krim to load Colleen Fitzsimmons' information, DocuSign it to her (without notary), and obtain a notarized version later. Sarah confirmed that the injunctive motion can be filed with just an assigned copy. Colleen, currently on vacation in Greece, is waiting for her lawyer friend, James, to review the document. A separate document might be created stating they will not pursue her for stolen money, as it is needed for the outcome case.
+* **Zillow API Integration**
+    MKPartners called to set up Zillow integration, expected to take about a week due to an existing API. A humorous suggestion was made to attach it to Zoom accounts for identification purposes during calls.
+* **Blue Cross Blue Shield Network Adequacy Mapping**
+    A plan to map network adequacy for Blue Cross Blue Shield in key rural states (Iowa, Kansas, Illinois, Missouri) was discussed as a worthwhile investment to defend against their perceived inadequacy. This involves hiring a contractor (a smart individual who previously wrote his own crypto) to download and process JSON files from 32 different Blue Cross regions (published monthly under a transparency and data act), convert them to CSV, and filter by taxonomy relevant to their facilities. The data will be stored in a folder for future use.
+* **Crypto Investment Discussion**
+    A brief discussion on crypto investments, including Bitcoin and XRP, occurred. The speaker expressed hesitation due to others' losses and lack of time but was open to tips. Advice was given for long-term holding with selling thresholds. Price predictions included Bitcoin reaching $200,000 this year and $1,000,000 in five years, and XRP (currently $2.40, up 500% this year) potentially reaching $500,000-$1,000,000 in ten years, as it is seen as potentially replacing the SWIFT banking system.
+* **Injunctive Relief Filing and Podcast Proposal**
+    Sarah and the team are focused on the injunctive relief filing over the next 48 hours. Tony Drees signed an attestation for the court and proposed a podcast series (five shows) to highlight APN services and client stories by interviewing former clients. Tony Drees is a "badass" athlete (gold medalist in archery, scratch golfer, ski instructor) competing in the Paralympic Games, and his involvement is seen as "huge" due to his background as a veteran, athlete, and someone who knows APN from the inside. He quickly signed and notarized the attestation.
+* **Veteran and VA Navigation**
+    Tony Drees' involvement with the Denver VA (where he is every week) and his potential to help navigate VA processes were discussed. It was emphasized that VA access is an "inside job" requiring connections with lower-level care coordinators. The speaker noted Tony is not expensive due to "low self-esteem," fitting the business model of hiring "high performers with low self-esteem."
+* **Legal Settlement Negotiations**
+    An update on the opposing attorney's response indicated a desire for privileged settlement discussions, suggesting that pressure is working. The attorney postured that the speaker's "antics" would delay settlement, to which the speaker retorted that they had been seeking settlement for three years. The speaker feels strongly about their case, citing evidence against the opposing party's practices and their failed network adequacy, which is considered "huge ammo." The exposure risk is for clients from other states if network adequacy is not met.
+> **Conclusion**
+> 1. New hire (Sandrock) expected to start by next week pending checks. Emily's low hours may be due to PTO or poor deployment.
+> 2. No one should call Justin Levine; his account remains a house account, and Kyle's request to take it on was denied, as the focus is on new accounts. Data issues are to be reviewed.
+> 3. Admissions are improving in some areas but remain low in others; ongoing monitoring required.
+> 4. Modeling and staffing for sober living to be explored further; no final decision yet.
+> 5. Admissions must be taken as needed; operational flexibility emphasized.
+> 6. Current rates are strong; financial performance is better at current census.
+> 7. Discounts approved as needed; new contracts required for stays beyond original term.
+> 8. Ongoing need to monitor and challenge insurance payments; Plutus to be consulted about Tri-Care/Tri-West.
+> 9. Process underway; expected to receive signed documents soon.
+> 10. Integration expected within a week; further technical details to be worked out.
+> 11. Mapping to be started by a contractor; data to be stored for future use.
+> 12. No action taken regarding crypto investment; general advice shared.
+> 13. Filing in progress; podcast proposal to be considered after Paralympic Games.
+> 14. Tony Drees' involvement seen as valuable; further engagement planned.
+> 15. Settlement discussions ongoing; network adequacy evidence to be used as leverage.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 3. Operational strategy, resource allocation, and data-driven decision-making for health insurance claims and mental health services.</title>
+      <description><![CDATA[* **Analysis of Health Insurance Coverage by State**
+    Discussion on using BD data to show the percentage of health insured by state, which will be overlaid with Blue Cross client data to identify and prioritize states like South Dakota, Idaho, Nebraska, and Kansas for further analysis, as this analysis goes well beyond Colorado.
+* **Daily Finance Calls Scheduling**
+    Mention of two daily finance calls scheduled at 8:30 AM, both with the same Zoom link. A plan is in place to cancel one to avoid confusion.
+* **Network Status and Charity Violations**
+    Discussion about Jay Walker being out of network, despite their site claiming verified insurance. This is considered another "charity violation" in Summit County, where network availability is claimed, and Jay Walker has been around for three years.
+* **State Prioritization for Claims**
+    A plan to prioritize states based on claim volume and risk was discussed. This includes focusing on states with inadequate mental health licensing, such as Texas (a bordering state without a subacute mental health license), which could ensure payment on "one-sevens." States will be prioritized and mapped by volume to identify the highest-risk claims for counter-arguments.
+* **Preparation for Anthem Meeting**
+    A PowerPoint presentation needs to be prepared within the next two weeks for a meeting with Anthem. The presentation should "sell them a little bit on who we are," including outcomes, the pathway to settlement, and organizational credentials.
+* **Updating Outcome Framework**
+    Consideration of using the existing "Sean" framework for outcomes, which includes step-down percentages. The data will be updated, and accreditations will be highlighted, emphasizing that they are "duly accredited."
+* **Courtney Messina's Performance and Role**
+    Evaluation of Courtney Messina's impact, noting her outpatient impact is "abysmal." Sims has pivoted her to focus on DAC and Boulder. There is a lack of a scorecard for her, and concerns exist about paying her "a bunch of money" without expected outcomes, as she is seen as a "floater." Sims and Hemphill are now running staffings for step-downs. A scorecard is needed, and if she's not effective, a replacement might be sought.
+* **Outpatient Admissions and Step-Downs**
+    Discussion on the need for more direct outpatient admissions, noting that "you can't have four people in an IOP." It's an "out-of-network IOP game," but the belief is they "can do better."
+* **Multi-Plan Strategy and External Resources**
+    The need to develop an internal game plan for multi-plan was discussed, with concerns about delays and consideration of using external resources.
+* **Data Gathering and List Building**
+    Ethan, who "knows how to go to the deepest parts of the web," is tasked with finding comprehensive lists and building data objects. This includes leveraging Github and hacker communities. Data objects will be built today with the MK call and uploaded, but better, more definitive lists are needed.
+* **Courtney Messina's Task Assignment**
+    Recognition that Messina was given a difficult task. The speaker and Michael were "wrecking their heads" over the issue, suggesting the problem might be systemic at the lodge (unwillingness to push people to step down). The speaker will find a way for her to make a bigger impact.
+> **Conclusion**
+> 1. One of the duplicate Zoom calls will be canceled.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[- [ ] Refine 13-week cash flow forecast within the next month.
+- [ ] Integrate insurance payer data with machine learning model.
+- [ ] Complete lead source and status cleanup in CTMS within the next day or so.
+- [ ] Send email to Arthur regarding Alex Nelson's productivity and schedule a meeting.
+- [ ] Document concerns about Alex Nelson's production.
+- [ ] Provide backup for Garrett due to low outbound call numbers.
+- [ ] Hire a replacement for Chris ASAP.
+- [ ] Reconcile AR reporting differences between Paul and others.
+- [ ] New hire to start by July 14, 2025, pending background check and TP tests.
+- [ ] Review and correct win-back account data and ensure accurate account assignments.
+- [ ] Monitor IOP and in-person admissions, especially in Boulder and Denver.
+- [ ] Model and plan for improved sober living operations, including staffing and cost analysis.
+- [ ] Continue to monitor and challenge insurance claims, especially Tri-West and multiplayer contracts.
+- [ ] Colleen Fitzsimmons' DocuSign process to be completed and injunctive motion filed within 48 hours (by July 11, 2025).
+- [ ] MKPartners to set up Zillow API integration within one week (by July 16, 2025).
+- [ ] Contractor to begin Blue Cross Blue Shield network adequacy mapping for key states; data to be stored for future use.
+- [ ] Sarah and team to focus on injunctive relief filing over the next 48 hours (by July 11, 2025).
+- [ ] Consider Tony Drees' podcast proposal after his participation in the Paralympic Games (starting July 10, 2025).
+- [ ] Continue legal settlement negotiations and gather network adequacy evidence for leverage.
+- [ ] Cancel one of the duplicate daily finance Zoom calls scheduled at 8:30.
+- [ ] Prepare a PowerPoint presentation for the Anthem meeting within two weeks, including updated outcomes and organizational credentials.
+- [ ] Have Ethan search for comprehensive lists and build data objects, leveraging Github and hacker communities.
+- [ ] Develop a scorecard to evaluate Courtney Messina's performance.
+- [ ] Prioritize states for claims analysis based on volume and risk.
+- [ ] Upload current data objects after the MK call.
+
+> **AI Suggestion**
+> AI has identified the following issues that were not concluded in the meeting or lack clear action items; please pay attention:
+> 1. There are unresolved discrepancies in accounts receivable reporting between different systems and staff, which threaten financial accuracy; a thorough reconciliation process must be initiated and completed to ensure all financial data is consistent and reliable.
+> 2. Staff productivity issues remain unaddressed, particularly concerning Alex Nelson’s interpersonal challenges and lack of output; clear documentation, performance expectations, and scheduled follow-up meetings are needed to resolve these concerns and improve team effectiveness.
+> 3. The integration of insurance payer data with the machine learning forecasting model is not finalized, risking delays in accurate forecasting and operational planning; a concrete timeline and responsible parties must be established to complete this integration.
+> 4. Immediate backup support for Garrett is required to address his burnout and low outbound call numbers, as this impacts both individual well-being and team performance; a plan for temporary coverage and long-term workload management should be developed.
+> 5. The methodology and criteria for prioritizing states in claims analysis, especially regarding mental health licensing inadequacies and risk assessment, remain unclear; these must be clarified and documented to guide effective analysis and decision-making.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Blue Cross Blue Shield Lawsuit &amp; Data Analysis</title>
+      <description><![CDATA[- **Objective:** Demonstrate Blue Cross Blue Shield’s lack of network adequacy, focusing on patients traveling out of state for treatment.
+- **Data Requirement:** Analyze facility coverage, especially in states with high claim volumes (e.g., Wyoming, Montana) to identify coverage gaps.
+- **Technical Solution:** Seeking a developer (a former employee described as a brilliant guy who wrote his own cryptocurrency, never left the house, still lives with his mom, is about 30 years old, and is considered a 'secret weapon' for his ability to find anything on the internet) to write a script for every Blue Cross Blue Shield facility.
+- **Project Scope:** Currently being developed for the developer; will include requirements for identifying coverage gaps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Commercial Forecasting &amp; Reporting</title>
+      <description><![CDATA[- **Progress:** Strong advancement on commercial forecasting.
+- **Patient Pay Reporting:** Desiree is providing additional reporting on the patient pay side.
+- **Collaboration:** Ongoing collaboration with Rye on commercial forecasting.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Gabrielle Contractual Issue</title>
+      <description><![CDATA[- **Status:** No executed agreement exists with Gabrielle from either party.
+- **Sequence:** Gabrielle introduced the candidate and sent an agreement after the introduction, which was considered out of order and "shady," but it was never executed.
+- **Action:** No obligation to Gabrielle; consensus is not to pursue further unless she presses the issue, in which case the lack of a contract and "ridiculous contract rates" would be cited.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Plan &amp; Implementation Updates</title>
+      <description><![CDATA[- **Project Plan:** Completed and ready for review within 1.5 hours; review scheduled for the afternoon.
+- **Implementation:** Rye and Scott are progressing on workstreams, especially in Sage and Intacct systems. They have successfully tied out Malibu, 9X, Naples, and Boulder for 2025 within Sage and Intacct systems.
+- **Weekly Updates:** A chart outlining progress will be updated weekly for ongoing visibility.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Brex Card Expense Management</title>
+      <description><![CDATA[- **DPI for Rex:** Miko is developing a DPI for Rex, expected to be live by next Tuesday or Wednesday.
+- **Expense Tracking:** Real-time (with ~2-hour delay) insight into spending by person, location, account, and vendor will be available next week.
+- **Vision:** Identify recurring expenses per Brex cardholder and adjust card limits to recurring costs plus 10% during slow cash months to prevent overspending.
+- **Automation:** Plan to automate notifications and limit adjustments, possibly mid-month based on forecasted spend, using another developer.
+- **Communication:** Need to inform users when their card limits are adjusted.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Team Structure &amp; Roles</title>
+      <description><![CDATA[- **Scott:** Positioned as a cost control lead, reporting to Rye; recognized for making tough decisions and supporting Sage training for accounting staff.
+- **Rye:** Focused on cash, revenue, contractuals, bad debt, and accounts payable, which are key areas for ensuring balance sheet comfort.
+- **Scott’s Restrictions:** Cannot sign any company documents due to his background; valued for his independent work and minimal training needs.
+- **Retention:** Desire to retain Speaker 2 (the person Speaker 1 is talking to) in at least a fractional capacity.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Meeting &amp; Communication Logistics</title>
+      <description><![CDATA[- **Project Management:** Emphasis on transparency and structured project management, aligning with Speaker 1's operational style.
+- **Long-Term Planning:** Encouraged to consider long-term goals and roles.
+- **Weekly Wrap-Up:** Need for a structured, one-hour weekly wrap-up meeting with key leaders, focusing on strengths, weaknesses, and threats.
+- **Zoom Logistics:** Preference for separate Zoom links for each meeting, ideally managed from the Plot Twist Gmail account.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Administrative Requests</title>
+      <description><![CDATA[- **Email to Ethan:** Request for a concise email to Ethan, explaining the project scope and asking for a price estimate.
+- **Meeting Agenda:** Request for a one-hour agenda for the weekly wrap-up meeting, based on strengths, weaknesses, and threats.
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps &amp; Arrangements</title>
+      <description><![CDATA[- [ ] Finalize and send the project scope to the developer for Blue Cross Blue Shield facility analysis.
+- [ ] Review and discuss the project plan this afternoon after receiving it.
+- [ ] Update the project plan weekly for ongoing visibility.
+- [ ] Launch Miko’s DPI for Rex by next Tuesday or Wednesday.
+- [ ] Use Brex data to identify recurring expenses and automate card limit adjustments and notifications.
+- [ ] Ensure Scott does not sign any company documents.
+- [ ] Prepare and send a concise email to Ethan with the project scope and request for a price estimate.
+- [ ] Develop and distribute a one-hour agenda for the weekly wrap-up meeting with key leaders.
+- [ ] Set up separate Zoom links for each meeting, preferably from Plot Twist Gmail.
+- [ ] Consider long-term planning and roles for key team members.
+- [ ] Monitor for any follow-up from Gabrielle regarding contractual matters.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Quarterly Meeting Structure and Purpose</title>
+      <description><![CDATA[- The quarterly meeting plan is designed to review performance, compare quarterly results, and foster a culture of accountability and process improvement.
+- The agenda includes:
+  - Morning arrivals and check-ins.
+  - Results review and performance comparison sessions.
+  - Breakout sessions (e.g., process group discussions on bottlenecks and solutions).
+  - Action planning using the “start, stop, do more, do less” framework.
+  - Finish line meetings with recaps, cultural storytelling, and leadership visibility.
+  - Thursday wrap-up sessions to finalize deliverables, address open issues, and debrief for future improvements.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Attendees and Roles</title>
+      <description><![CDATA[- In-Person Attendees: Speaker 2 (as needed), Craig, Kerry, Courtney, Jeremy, Dr. Hemphill, and potentially others pending confirmation (e.g., “he’ll be there”).
+- Virtual Attendees: Johnson, Jessica, and one additional person referenced by Michael Sims.
+- Note: Dr. Rogers is on PTO during the meeting; further follow-up is needed for another attendee mentioned by Michael Sims.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Agenda and Session Breakdown</title>
+      <description><![CDATA[- Session Timing:
+  - Morning: Arrival, plenary communications, and introduction to retreat goals.
+  - 1–5 p.m.: Results review focusing on performance, process comparisons, shared messaging, and collaborative strategy.
+  - 6:30 p.m.: Potential dinner, with options for on-site or alternative venues.
+- Discussion Topics:
+  - Review of quarterly goals, financial performance, and cross-functional blockers.
+  - Use of templates (inspired by Starbucks) for clarity in roles, due dates, and leader responsibilities.
+  - Action planning to identify barriers and solutions, using breakout groups and whiteboard exercises.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Group Breakouts and Action Planning</title>
+      <description><![CDATA[- Group Work Structure:
+  - Divide into three or more process areas (e.g., acquisition, clinical, alumni relations) based on strategic topics.
+  - Brainstorm all bottlenecks, then select the top three high-impact issues.
+  - Use a two-by-two matrix to evaluate quick wins versus long-term projects by financial impact and ease of implementation.
+  - Participants summarize issues and solutions in one sentence, using quantitative measures if possible.
+- Tools and Templates:
+  - Preparatory template to list up to ten bottlenecks and cluster similar themes for group synthesis.
+  - “Real Talk” sessions with a microphone to encourage risk-taking in sharing observations.
+  - Develop slide content for the all-staff presentation to clarify what is changing and why.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Leadership and Culture</title>
+      <description><![CDATA[- Psychological Safety:
+  - Foster an environment for honest feedback without personal attacks.
+  - Set ground rules for open conversation and accountability for attendance.
+  - Recognize courageous, actionable feedback over micromanagement.
+- Cultural Approach:
+  - Integrate leadership stories and real-time problem-solving.
+  - Encourage candid feedback to uphold core values and drive improvement.
+  - Balance operational, clinical, and financial outcomes through targeted discussions.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Tools, Templates, and Organizational Resources</title>
+      <description><![CDATA[- SharePoint Organizational Chart:
+  - Functional org chart tool to visualize reporting lines and accountabilities.
+  - Enhanced with personalized, engaging SharePoint homepages to promote use and ownership.
+- Visio Dependency Maps:
+  - Detailed maps for acquisitions process, showing dependencies and strategic interconnections.
+- Additional Resources:
+  - Nine-box grid for leadership performance with fuzzy logic adjustments (noting potential rating skew).
+  - Dynamic presentations (e.g., Axios-style headlines and summaries for key issues).]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Travel and Logistics</title>
+      <description><![CDATA[- Travel Coordination:
+  - Discussion on booking flights and lodging (e.g., Denver trip), using company card and contacting Andrea or Kathrina.
+  - Speaker 2’s travel details to be confirmed with HR booking support.
+- Exit Meeting Scheduling:
+  - Speaker 2 contacted Carrie and Hannah to schedule an exit meeting; follow-up needed as Hannah has not responded.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Future Meeting Breakouts and Follow-Up</title>
+      <description><![CDATA[- Future Sessions:
+  - Consider small group breakouts led by different leaders (e.g., operations, clinical, finance).
+  - Plan a follow-up meeting (tentatively Friday) to refine breakout group plans and session tracks.
+- Process Improvements:
+  - Revisit process group breakouts to focus on key deliverables.
+  - Emphasize immediate action (“start today, not tomorrow”) for behavioral and operational improvements.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integration of Coaching and Team Building</title>
+      <description><![CDATA[- Coaching:
+  - Speaker 2 offers coaching sessions as part of team-building.
+- Team Building:
+  - Brainstorm non-traditional activities to foster self-awareness and leadership collaboration.
+  - Include fun, engaging exercises to create a safe space for honest conversations and risk-taking.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[- [ ] Follow up with Hannah regarding the exit meeting; send a 20-minute request for her time.
+- [ ] Confirm and double-check the attendee list, especially the additional person referenced by Michael Sims.
+- [ ] Finalize and distribute the detailed quarterly meeting agenda, including session breakdowns and breakout group assignments.
+- [ ] Develop and share the bottleneck identification template (including the two-by-two matrix) for group exercises.
+- [ ] Coordinate travel: confirm flight and lodging details with Andrea/Kathrina using company card protocols.
+- [ ] Share the Visio dependency map and organizational chart details with Speaker 2 and other team members.
+- [ ] Schedule a 15- to 30-minute follow-up meeting on Friday to refine breakout group structures and next steps.
+- [ ] Set up a mechanism for capturing real-time meeting feedback (e.g., “Real Talk” microphone session) for team recognition.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>MK Partners – Salesforce Project Key Points and Process Overview</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 1. Account Transition and Team Structure</title>
+      <description><![CDATA[- Jake, the previous point of contact, has left due to burnout.
+- Ryan (Speaker 1) is now the interim point of contact for MK Partners’ delivery team.
+- A new consultant will start in about 1.5 weeks and will take over the account.
+- Chris is another contact who previously sent scope details.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 2. Current Project Scope and Priorities</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.1. Immediate Priorities</title>
+      <description><![CDATA[- **Zillow Integration into Salesforce:**
+    - Not previously documented or implemented; now the top priority for the client.
+    - Purpose: Qualify leads financially (e.g., knowing how much a caller paid for their house) without being insensitive, especially given the expensive nature of the treatment center.
+    - Integration could be into the lead object or the soon-to-be-launched CTM system (currently using Revenue.io, moving to CTM because Revenue.io doesn't work with their current account structure).
+    - Open to alternatives if there’s a faster, more accurate, or easier indicator than Zillow (e.g., zip code-based qualification), as the client is not strictly tied to Zillow but to the financial qualification goal.
+    - The CEO is actively pushing for this integration.
+- **API Version Updates and Audit:**
+    - Need to update Salesforce API to version 45 due to Salesforce changes (specifically affecting Visualforce and date/time fields, related to ICU date/time format changes).
+    - Review and remove unused APIs and integrations to reduce unnecessary costs and complexity, as the client suspects they are paying for unused services due to past haphazard setup and lack of governance.
+    - Ensure only necessary APIs/packages are active; remove unused ones.
+    - This is a critical risk mitigation and governance task, as the org is approximately 6 years old and likely has legacy integrations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>2.2. Secondary Priorities</title>
+      <description><![CDATA[- **Opportunity Task Cadence:**
+    - This involves leveraging native Salesforce features for guided selling, an algorithmic engagement strategy for leads or opportunities reaching a certain status.
+    - Jake had built a minimum viable product for this using native task flows, but it did not work during demos. The goal is to fully leverage the system's native capabilities.
+- **Readmittance API:**
+    - This item was on Jake's previous list, but its specific purpose or relevance is currently unclear to the client.
+- **Custom Objects:**
+    - Build 2-3 custom objects:
+        - Alumni tracking: Attribute work to alumni who refer new clients, as they currently receive no attribution.
+        - Internal sales engagement: Track internal sales activities post-admission (e.g., consults, engagement with services like massage or float tanks), ensuring appropriateness and providing visibility into internal sales engagement levels. The treatment center is described as being like "Disneyland" with various services.
+        - List uploads: Upload campaign lists (e.g., for insurance company campaigns) into Salesforce, likely as leads in the business development object.
+    - Need guidance and training on basic Salesforce admin tasks (e.g., switching tags), as the team is not composed of developers and the previous developer cut corners, leading to a desire for structured and professional system management.
+- **Unused Fields:**
+    - Review and clean up unused fields within the Salesforce instance as part of overall system optimization and governance.
+- **Backup Solution (OwnBackup):**
+    - Previously flagged as urgent by the former developer, but deprioritized after discussion with Ryan.
+    - No current backup in place; however, the risk is considered low by Ryan due to Salesforce’s cloud infrastructure (data loss only if Salesforce goes down).
+    - Will revisit backup solutions later; pricing for OwnBackup or alternatives can be provided.
+- **Opportunity Calculation Object:**
+    - No longer needed; the client has already handled this via PowerApps with an existing integration into Salesforce, which works for their internal systems.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 3. Project Management and Financial Considerations</title>
+      <description><![CDATA[- **Phased Approach:**
+    - Client requests work be broken into 3-4 phases to manage cash flow and avoid large, lump-sum invoices (e.g., a $90,000 bill).
+    - Each phase will be scoped and estimated separately, allowing for flexibility if a cash flow crunch occurs.
+    - Liquidity is not a major issue, as the company is a $4 million/month cash business, but fiduciary responsibility requires careful pacing.
+- **Estimates and Rates:**
+    - Zillow integration: Estimated 40-50 hours (if straightforward).
+    - API audit and updates: Estimated 10-15 hours.
+    - Hourly rate: $125.
+    - Zillow integration cost estimate: ~$11,000.
+    - The client wants to avoid large, unexpected bills, preferring to pace payments.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># 4. Technical and Operational Context</title>
+      <description><![CDATA[- **Lead Generation and Qualification:**
+    - The company generates approximately 5,000 calls/month, primarily from pay-per-click ads, with a 40-50% call-to-lead conversion rate.
+    - The business development team handles referrals, which are already financially qualified.
+    - There is a strong need for a financial qualification data point to avoid insensitive conversations with potential clients, especially given the high cost and luxury nature of the treatment center.
+- **System Governance:**
+    - The previous developer cut many corners, resulting in a system described as a “solid B+” but not optimal.
+    - There is a clear need for an objective review and ongoing governance to prevent the system from becoming a “pile of garbage.”
+    - The client desires structured, professional system management, moving away from informal "bro kind of stuff."
+- **Internal Communication:**
+    - Speaker 2 (Arthur) will review and phase out the project list with the contact center director and send feedback to Ryan.
+    - Ryan will coordinate with the developer/architect and send updated scope and estimates.
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Ryan (Speaker 1) to send updated phased project scope and estimates to Speaker 2 (Arthur).
+- [ ] Ryan to consult with developer/architect regarding Zillow integration and possible alternatives (e.g., zip code-based qualification).
+- [ ] Ryan to provide pricing for OwnBackup or alternative backup solutions (for future consideration).
+- [ ] Speaker 2 (Arthur) to review and phase out the project list with the contact center director and send feedback to Ryan.
+- [ ] Ryan to initiate Zillow integration as a separate Statement of Work (SOW) if expedited approval is needed.
+- [ ] Ryan to audit and update Salesforce API versions and clean up unused integrations/packages.
+- [ ] Ryan to begin work on custom objects for alumni tracking, internal sales engagement, and list uploads after Zillow/API tasks.
+- [ ] Ryan to transition account management to the new consultant in approximately 1.5 weeks.
+- [ ] Ryan or Chris to provide a status update to Speaker 2 by the next day regarding Zillow integration feasibility and next steps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Overview</title>
+      <description><![CDATA[- Identification of targeted provider registry data, including machine-readable files and provider details with MPI (National Provider Identifier) and taxonomy codes.
+- Emphasis on leveraging publicly available data, specifically the national provider database, to support an $80 million lawsuit involving Blue Cross Blue Shield. This data is considered crucial for legal standing, as Blue Cross and similar companies are mandated by the Data Transparency Act to publish accurate information.
+- Focus on precise provider mapping, filtering by specific taxonomy codes to isolate relevant facilities, primarily substance use disorder facilities.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data and Technical Requirements</title>
+      <description><![CDATA[- Extraction of provider registry data, confirmed to be a completely free dataset that covers the entire inspection of providers.
+- Data filtering based on client-supplied taxonomy codes is essential to narrow the list, specifically excluding multi-specialty clinics and focusing on two primary taxonomy codes, including one for substance use disorder facilities and another for primary mental health.
+- Use of MPI numbers as unique lookup keys after initial filtering to facilitate further data retrieval and verification.
+- Significant challenges with raw datasets include their large file sizes and inherent machine memory limitations, which have previously caused scraping failures.
+- A notable failed attempt involved using a Python script, generated by ChatGPT, to extract files from Alabama; this script ran for 90 minutes before ultimately failing due to memory constraints.
+- Consideration of anti-scraping measures implemented on provider websites, which may necessitate advanced scraping techniques such as grid-based scraping and subsequent rigorous dataset cleaning.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Work Process and Technical Approach</title>
+      <description><![CDATA[- Proposal to utilize an existing Maptiv account for visualizing the provider registry data, leveraging its pre-built base map for efficiency and ease of use.
+- Integration of multiple data sources, including insights from a shared GitHub project for a provider database, although this specific project has limitations in mapping due to latitude and longitude restrictions.
+- A key plan is to create a heat map visualization, segmented into three distinct colors by taxonomy, to facilitate easier identification of in-network versus out-of-network providers and assess network adequacy.
+- The scraping strategy will prioritize cleaning the main MPPI dataset first, getting it visualized, and then proceeding with the scraper to collect additional, more granular data points.
+- Scraper performance and project feasibility will be evaluated by testing the process on specific states, such as Colorado, to establish baseline metrics and inform the overall timeline.
+- Manual verification steps, such as having administrators call facilities in states like Nebraska, will be employed if automated scraping proves insufficient or for rural areas.
+- Comprehensive documentation is required for all scraper work, including storing raw files in a dedicated folder and uploading all findings to a private GitHub repository to ensure access and traceability.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Payment Structure and Agreement Details</title>
+      <description><![CDATA[- The project is proposed to operate on an hourly basis, with an initial block cap set at 50 hours.
+- The estimated rate for this block is $3,000, with an understanding that flexibility will be applied if unforeseen technical limitations (such as bandwidth or processing constraints) arise, ensuring payment up to the hours logged if the project needs to stop.
+- Consideration will be given to drafting a formal statement of work or agreement to structure the project professionally, especially for potential future collaborations.
+- Assurance of payment process is provided, with the client controlling the purse strings and emphasizing the importance of careful logging of hours.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Additional Considerations</title>
+      <description><![CDATA[- Discussion included the potential use of an API for Blue Cross Blue Shield data extraction if available, or otherwise relying on public provider registry data mandated by Data Transparency Acts.
+- A significant concern regarding the MPPI dataset's legal validity was raised, as it primarily provides a list of providers but does not confirm whether they are actively offering services in-network, necessitating a second phase of scraping to validate service provision.
+- The possibility to shift focus to alternative datasets, such as state licensure data, was discussed as a contingency if Blue Cross-related scraping becomes too complex or fails to yield accurate network adequacy data. For example, the lack of subacute mental health licenses in states like Texas could form a basis for a legal case, as patients may have no in-state options for certain types of care.
+- The use of additional taxonomy filters is crucial to exclude non-relevant provider data, such as primary care or multi-specialty clinics, ensuring the focus remains on specific behavioral health services.
+- Future collaborative opportunities were discussed, including potential full-scale consulting projects and team-building to establish a "McKinsey and Company of Behavioral Health," depending on the successful outcome and insights from this initial investigation.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] The client will provide specific taxonomy codes for substance use disorder facilities and primary mental health, explicitly excluding multi-specialty clinics.
+- [ ] The client will share Maptiv account login details for mapping and visualization purposes.
+- [ ] The consultant will confirm acceptance of the 50-hour block assignment and the associated $3,000 rate for the project.
+- [ ] The consultant is encouraged to draft and review a formal statement of work outlining project scope, deliverables, and payment terms for professional documentation.
+- [ ] The consultant will prioritize cleaning the main MPPI dataset and visualizing it before proceeding with scraping.
+- [ ] The scraping process will be tested on a small data subset (e.g., Colorado) to establish baseline performance metrics and inform the overall project timeline.
+- [ ] The consultant will monitor and document any technical or bandwidth limitations encountered during scraping, including strong documentation on data sources.
+- [ ] The team will evaluate and decide on further action if Blue Cross Blue Shield scraping proves unfeasible, including exploring alternative datasets (e.g., state licensure data) and potential legal arguments based on state-specific licensing gaps.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Claims Analysis and Filing Strategy</title>
+      <description><![CDATA[- Most claims are concentrated in Colorado, making it the primary focus for analysis and legal action.
+- Additional internal analysis will be conducted to confirm the extent and specifics of claims, especially in Colorado.
+- The timeline for processing Colorado claims will determine the overall opportunity size and subsequent steps for filing.
+- Filing must be completed promptly to present the case before a judge.
+- If Colorado alone provides sufficient grounds, the process may proceed without expanding to other states.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Data Visualization Requirements</title>
+      <description><![CDATA[- Visualizations (maps) are intended for a judge as part of an injunctive hearing, focusing on injunctive relief due to financial distress caused by non-payment.
+- Visualizations should be professional and clear, suitable for a legal audience.
+- Standard heat maps or dot maps are acceptable; mimicking official forestry or state map styles is recommended for normalization to the judge.
+- Multiple visualization options can be provided, as their technical implementation is straightforward.
+- Source documentation must accompany all visualizations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deadlines and Deliverables</title>
+      <description><![CDATA[- The absolute deadline for deliverables is not fixed but should ideally be within the current week, though it depends on the completeness of the data.
+- Deliverables include:
+    - The master list map (with MP data).
+    - Additional data scraping and integration as needed.
+- The urgency of filing depends on the completeness and clarity of the initial mapped data.
+- The internal attorney will review the mapped data to determine if it is sufficient for filing.
+- If the initial data is inadequate, further information may be required before proceeding, as insufficient data could lead to the case being dismissed by the judge, potentially risking an $80 million claim.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Communication Preferences</title>
+      <description><![CDATA[- Text messaging is preferred for urgent or important communications, as emails may be overlooked.
+- A statement of work and a quote will be provided as soon as possible.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Legal and Process Considerations</title>
+      <description><![CDATA[- The case is being prepared for an injunctive hearing.
+- The internal general attorney will make the final decision on filing based on the data presented.
+- The process will proceed step by step, adapting as more information becomes available.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Complete further internal analysis on claims, focusing on Colorado.
+- [ ] Prepare and deliver professional visualizations (heat map/dot map) with source documentation.
+- [ ] Provide multiple visualization options for review.
+- [ ] Deliver the master list map with MP data.
+- [ ] Integrate additional scraped data as needed.
+- [ ] Submit the initial mapped set to the internal attorney for review.
+- [ ] Obtain a clear deadline for deliverables based on attorney feedback.
+- [ ] Send the statement of work and quote.
+- [ ] Use text messaging for urgent communications.
+- [ ] Adapt next steps based on the sufficiency of the initial data and the attorney’s decision.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Balance Sheet Reconciliation and System Integration</title>
+      <description><![CDATA[- SAGE and NetSuite balances must match, with the primary focus on finalizing the balance sheet as of May/June.  
+- Rye is ensuring SAGE balances align with NetSuite across multiple entities (e.g., Malibu, Naples, Boulder).  
+- Scott is verifying subledgers, such as cash tied to bank accounts, and ensuring key accounts (revenues, AR reserves, AP) reconcile, impacting the P&L.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Deferred Revenue and Allocation Process</title>
+      <description><![CDATA[- Deferred revenue refers to cash received before it is earned (unearned revenue), distinct from accruals for earned revenue.  
+- NetSuite holds the deferred revenue figure, which must reconcile with Sage using a subledger or schedule to identify the source/customer.  
+- Allocation training is needed, as cash allocation is currently manual due to staff not knowing how to process this in Sage.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Cash Flow Reporting and Forecasting</title>
+      <description><![CDATA[- A weekly cash flow report will be generated using the RISE file as the source of truth, but improvements are needed in communication (assumptions, top spend details) and visual tools like a 13-week projection graph.  
+- Forecasts are compared by reviewing forecasted versus actual collections (targeting 94–95% accuracy) and analyzing forecasted volumes.  
+- Call volume is the leading indicator, with plans to use six weeks of historical data (doubled for a 13-week forecast).  
+- Discussions include integrating Salesforce data (via an “executive data” file) and exploring machine learning models that weigh variables like web page views and admission conversion rates to refine forecasts.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Month-End Close Process Improvements</title>
+      <description><![CDATA[- Historical month-end close challenges stemmed from the SAGE transition and prior checklist inefficiencies.  
+- A detailed checklist (used before SAGE reconciliation issues) outlines items to be completed by specific business days.  
+- A structured close process, including CFO/controller review before final submission to management, is needed for accountability and timely reporting.  
+- Scott may shift from cash management to focus on SAGE implementation support and controlling tasks D1–D6.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Accounts Payable and Vendor Expense Controls</title>
+      <description><![CDATA[- Discussion centered on disorganized expense tagging and allocation in the general ledger.  
+- Power Query is used to categorize transactions by department, criticality, and necessity, ranking expenses (e.g., food cost per patient day, auto floor expenses) and flagging items for cancellation or review.  
+- Tags must be aligned across systems (clinical, administrative, nursing costs) to ensure accurate departmental allocations.  
+- Analysis of recurring spending via Bill.com and Brex was emphasized. Brex is recommended for real-time expense control, with API integration planned.  
+- Future reporting may automatically separate fixed and variable expenses, especially those tied to patient days, admissions, or discharges.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Integrating Business Intelligence (BI) and Real-Time Reporting</title>
+      <description><![CDATA[- The goal is to integrate Sage with BI via API for near real-time financial data updates.  
+- A sample NetSuite integration (from an external analytics partner) demonstrated how data and GL classifications can be visualized in BI dashboards.  
+- The new system will filter data by facility and adjust for rank formulas on expense criticality, supporting strategic decisions.  
+- Planned BI enhancements include granular reports by expense category (fixed, variable, semi-fixed) and tracking KPIs (e.g., per patient day revenue, food cost optimization) operationally.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Operational and Staff Capacity Considerations</title>
+      <description><![CDATA[- The team is operating near maximum capacity, limiting support for additional projects. Discussions are underway to leverage current staff and new hires (e.g., Plutus for AR) to reduce workload.  
+- Contract documentation and general ledger reviews are centralized in shared folders for transparency and regular departmental review.  
+- The long-term vision is to increase capacity by transitioning to a fractional CFO model with clearer reporting lines and board communication.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Process Automation and Future Reporting Enhancements</title>
+      <description><![CDATA[- A demonstration showed how general ledger data is transformed via Power Query to produce categorized expense reports.  
+- The report ranks vendor expenses so departments can identify critical versus non-critical spending, aiding decisions on delaying or canceling expenses.  
+- There is potential to integrate a machine learning model into forecasting and BI to incorporate live variables such as web traffic (via Jordan, the digital specialist) and CPT code data.  
+- Ongoing improvement is expected through regular meetings with facility leads (weekly or bi-weekly) to monitor KPIs and enforce cost controls.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Roles, Hours, and Communication Guidelines</title>
+      <description><![CDATA[- Financial analysts (including Scott and Rye) are aligning responsibilities, with Scott focusing on SAGE implementation support and others handling cash management.  
+- Communication protocol: CC on emails means “for your information,” while tagged emails require immediate action.  
+- The consultant is currently committed to 25 hours per week, with flexibility to adjust as needed, aiming to streamline financial processes and reduce senior management workload.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Arrangements</title>
+      <description><![CDATA[- [ ] Confirm timelines for finalizing balance sheet reconciliation and verify SAGE/NetSuite alignment with Rye.  
+- [ ] Obtain ETA from Rye on remaining entities’ tie-outs and deferred revenue schedule alignment.  
+- [ ] Initiate allocation training for staff on proper Sage usage for manual cash allocations.  
+- [ ] Enhance and distribute the weekly cash flow report (including assumptions, top spend details, and 13-week projections) using the updated RISE file.  
+- [ ] Follow up with Micah to refine call volume-based forecasting and integrate additional variables from web analytics and historical data.  
+- [ ] Reinstate a structured month-end close checklist with CFO/controller review and ensure all team members are aligned.  
+- [ ] Reassign Scott’s workload to prioritize SAGE implementation while maintaining cash management oversight.  
+- [ ] Share the Power Query general ledger categorization analysis with the team and gather feedback on expense tagging.  
+- [ ] Integrate SAGE data with BI via API to establish a real-time financial reporting dashboard.  
+- [ ] Centralize contract documentation by creating dedicated folders for all staff to upload and reference documents.  
+- [ ] Schedule bi-weekly financial review meetings with facility leads to monitor KPIs such as food cost per patient day and expense control.  
+- [ ] Evaluate implementing a machine learning model to compare forecasting methods and improve cash projection accuracy.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Key Points from Alumni Program and Compensation Discussion</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Current Workload and Client Updates</title>
+      <description><![CDATA[- Speaker 1 has been very busy, with approximately eight clients recently leaving, many described as "needy."
+- Two new clients are interested in telehealth services, now available in Massachusetts.
+- Speaker 1's ongoing duties include teaching, graduation programming, and general alumni engagement at "the lodge."
+- Speaker 1 is actively managing a busy week with client transitions and new client interest, indicating a good but demanding period.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Alumni Engagement and Content Strategy</title>
+      <description><![CDATA[- Speaker 1, currently "Director of Alumni Programs," is considering a title change to "Senior Director" or "Senior Director of Programming," noting that a long title isn't necessary for feeling valued.
+- Speaker 1 proposes creating content (e.g., for Instagram or YouTube) to maintain alumni connections, viewing it as a "value add" to their job.
+    - The upfront cost would be minimal, requiring only a small handheld camera, as Speaker 1 is already present at "the lodge" and can video and edit.
+    - Content ideas include "Top Tip from Tammy" or quick vignettes from therapists like "What's a good DBT skill for Wednesday?"
+    - The goal is to keep alumni connected to therapists, the organization, and educational resources, allowing them to see familiar faces and be reminded of skills and motivation, without needing a huge team.
+- There is no current alumni engagement app, despite previous discussions with Jeremy about integrating alumni into one.
+    - Speaker 1 has explored white-labeled app solutions, which are liked but expensive (e.g., $2,400/month).
+    - The organization currently lacks a dedicated person for tasks like sending e-blasts, making content creation a low-overhead way to add value, create connection and community, and establish thought leadership without adding staff or detracting from core competencies.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Strategic Planning and Organizational Goals</title>
+      <description><![CDATA[- A strategic planning meeting is scheduled for the week of the 21st–24th (Speaker 2 initially thought 21st-23rd, then corrected to 22nd-24th), involving out-of-town participants.
+    - Topics for discussion include pre-, peri-, and post-treatment goals, and compensation.
+- Speaker 2 aspires for the organization to be recognized as the best treatment center in Colorado, though acknowledges not everyone would give a "resounding yes." Speaker 1, however, believes they are the best treatment center in Colorado, period.
+    - Strengths identified include strong residential and PHP programs.
+    - Weaknesses include the IOP program needing help and readmissions being a concern for Speaker 2.
+    - There is an ongoing need for improvement to solidify the organization's position as the best.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Compensation and Role Expansion</title>
+      <description><![CDATA[- Speaker 1 lost approximately $30,000/year due to the discontinuation of "six west," which was a yearly amount.
+    - Speaker 1's current salary is $95,000/year.
+    - Speaker 1 is seeking a compensation adjustment to recover this lost income, referencing another employee, Major, who went from $90,000 to $135,000 after their first promotion.
+- Speaker 2 acknowledges meritocratic values but notes company politics and ownership limit flexibility, stating they cannot discuss other people's compensation.
+    - Speaker 2 aims to adjust Speaker 1's compensation to be within $5,000 of the requested amount.
+    - Speaker 2 is considering adding business development (BD) responsibilities in specific cities (e.g., Arvada, or a "little city that's important to us") to justify an increase, leveraging Speaker 1's personable nature.
+    - There is a discussion of territory management and the underperformance of the current BD representative in Colorado.
+    - Speaker 1 has prior BD experience (e.g., as a real estate broker for 12 years) and is already supporting the IOP in Edwards, Colorado, by having meetings with sober coaches and other organizations.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Business Development and Market Presence</title>
+      <description><![CDATA[- The focus is on maintaining a presence in the Boulder market and other key areas where people have resources, rather than solely increasing census in Boulder.
+    - Challenges include the demographic fit of zip codes around Boulder and the lack of a provider there, though people do travel.
+    - Speaker 2 intends to leverage Speaker 1's skills for BD in important cities, potentially by having Speaker 1 do BD one day a week.
+    - The current BD rep's underperformance is noted, and Speaker 2 confirms they are hiring someone else, having shown the current rep a map of their assigned territory (colored zip codes with 16.5-mile radii around two sites).
+    - Speaker 1 noted that the previous BD rep, Desiree, despite personal issues, did get people into "the launch."]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Operational Feedback and Process Improvement</title>
+      <description><![CDATA[- Alumni frequently report difficulty contacting the finance department post-discharge, with Speaker 1 receiving daily questions about it.
+    - Issues include insurance paperwork, billing discrepancies, and payment processing (e.g., needing to send a check).
+    - Speaker 1 suggests streamlining communication, possibly by ensuring case management has finance emails, to smooth out this process.
+    - Speaker 2 has a meeting scheduled with the finance department next week to understand their operations, noting that finance is not consistently billing or collecting money from all clients, including on the back end of treatment.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Scalability and Future Planning</title>
+      <description><![CDATA[- The alumni engagement workload is increasing as the program grows, requiring consideration of scalability.
+    - Potential solutions include additional staff (e.g., a "mini Nicole" to learn the ropes) or technology (e.g., an app), with technology being viewed as the "cheapest FTE" in Vail, Colorado.
+    - Speaker 1 currently manages extensive outreach, monthly follow-ups, phone calls, and support calls (e.g., a 6:30 am call for short-term disability paperwork).
+    - The long-term vision is to build a scalable system for alumni engagement by getting on an app, collecting email addresses, and encouraging active social media participation to create a "container" for connection.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title># Recognition and Organizational Culture</title>
+      <description><![CDATA[- Speaker 2 recognizes Speaker 1 as a "bright spot" and a key asset in the organization, particularly for alumni engagement, noting Speaker 1's ability to work with clients and provide "street cred."
+    - Speaker 2 emphasizes leveraging Speaker 1's strengths and passion for client care, noting Speaker 1's belief in the organization as the best treatment center.
+    - Speaker 2 desires to formalize event planning and engagement responsibilities to maximize Speaker 1's talents, potentially by having Speaker 1 book a certain number of meetings or close deals.
+    - Speaker 2 expresses a strong intent to ensure fair and equitable compensation, acknowledging past inconsistencies in compensation decisions within the company.
+    - Speaker 1 emphasizes that the organization genuinely cares about alumni success and does not want them to feel abandoned post-discharge, embodying the idea of "fiercely protecting our alumni."
+
+---]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps and Action Items</title>
+      <description><![CDATA[- [ ] Speaker 2 to develop a compensation proposal for Speaker 1 by Friday (paperwork to be drafted Thursday).
+- [ ] Speaker 2 to consider expanding Speaker 1's role, potentially including formal event planning and/or additional BD responsibilities, to leverage talents to the fullest.
+- [ ] Speaker 2 to meet with the finance department next week to review and streamline alumni billing and communication processes, and understand their operations.
+- [ ] Speaker 2 to follow up on the performance and territory management of the current BD representative in Colorado, and proceed with hiring someone else.
+- [ ] Speaker 2 to participate in the strategic planning meeting (week of the 21st–24th) to address organizational goals, structure, and compensation.
+- [ ] Speaker 1 to continue developing alumni content and engagement strategies, leveraging "the lodge" and the clinical team.
+- [ ] Speaker 2 to evaluate the need for additional staff or technology to support scalable alumni engagement.
+- [ ] Speaker 2 to provide feedback and next steps to Speaker 1 after reviewing the compensation proposal.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Definitions and Classifications</title>
+      <description><![CDATA[- **"Unable to disclose"**: The insurance company explicitly refused to provide the information.
+- **"Unknown"**: No contact could be made with the insurance company to obtain the information. It was also suggested and agreed upon to reclassify this status as “not yet identified” for improved clarity.
+- **"Paid to subscriber"**: Indicates that the claim was paid to the client, confirmed once the Explanation of Benefits (EOB) is received.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Spreadsheet and Data Management</title>
+      <description><![CDATA[- The spreadsheet contains a complex dataset with about 22,000 lines.
+- The creation of this spreadsheet was noted as one of the most challenging tasks undertaken at APN, providing significant learning opportunities, including identifying inefficiencies.
+- Detailed explanations for claim statuses are included alongside the data.
+- The file uses Power Query and requires an online component, but is currently managed offline.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Network Adequacy Map and Data Mapping Process</title>
+      <description><![CDATA[- NOAA requested a network adequacy map, which involves managing large datasets (about 10GB per state).
+- The process includes pulling data from the National Provider Registry, cross-referencing taxonomy codes, and mapping these to Blue Cross MPI numbers.
+- A former employee (with a background in crypto and computing) raised concerns about the legal defensibility of this mapping method.
+- Extensive research has been conducted to ensure the defensibility of the approach, and the mapping process itself is estimated to require about 50 hours of work.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>Project Development and Financial Considerations</title>
+      <description><![CDATA[- The developer is responsible for processing the network adequacy map on a state-by-state basis.
+- The initial phase will focus on mapping for Colorado, after which a decision will be made on expanding to other states.
+- There is a verbal agreement for an additional $6,000 cost, verified by Katrina.
+- Flexibility has been granted on deadlines to accommodate the complexity and ensure quality.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+    <item>
+      <title>📅 Next Steps</title>
+      <description><![CDATA[- [ ] Send the detailed explanation of claim statuses (including "unable to disclose," "unknown," and "paid to subscriber") to the relevant colleague.
+- [ ] Confirm and share the location of the online definitions file to ensure a single, consistent version is used.
+- [ ] Inform the developer working on the network adequacy map that the deadline is flexible and there is no rush to complete the task immediately.
+- [ ] Begin the mapping process for Colorado, then evaluate results before proceeding with additional states.
+- [ ] Monitor the cross-referencing process between the National Provider Registry and Blue Cross MPI numbers for accuracy and legal defensibility.
+- [ ] Follow up on the verbal agreement regarding the additional $6,000 cost and ensure Katrina's verification is documented.]]></description>
+      <pubDate>Thu, 10 Jul 2025 17:01:20 GMT</pubDate>
+      <link>https://github.com/Plottwistnow/News</link>
+    </item>
+  </channel>
+</rss>
